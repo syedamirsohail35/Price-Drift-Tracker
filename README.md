@@ -62,3 +62,14 @@ Python, SQL, Data Cleaning, EDA, Data Visualization, Power BI Dashboard Developm
 
 👨‍💻 Project Role
 Data Analyst – Individual Project
+## 📸 Dashboard Preview
+
+![Price Drift Tracker Dashboard](images/dashboard.png)
+
+## 📊 Price Comparison
+
+![Platform Price Comparison](images/price_comparison.png)
+
+## 📈 Product Analysis
+
+![Product Analysis](images/analysis.png)
