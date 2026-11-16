@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Date,Platform,Previous_Price,Current_Price,Discount_Percentage,Rating,Price_Difference,Price_Change_Percentage
+P001,Smartphone,Electronics,2026-01-13,Amazon,,23780,6.6,3.9,,
+P001,Smartphone,Electronics,2026-02-12,Amazon,23780.0,24000,11.9,3.9,220.0,0.93
+P001,Smartphone,Electronics,2026-03-04,Amazon,24000.0,23190,5.8,3.9,-810.0,-3.38
+P001,Smartphone,Electronics,2026-06-12,Amazon,23190.0,20000,25.3,3.9,-3190.0,-13.76
+P001,Smartphone,Electronics,2026-01-21,Croma,,24840,22.3,3.9,,
+P001,Smartphone,Electronics,2026-04-04,Croma,24840.0,26380,5.4,3.9,1540.0,6.2
+P001,Smartphone,Electronics,2026-06-09,Croma,26380.0,25880,7.3,3.9,-500.0,-1.9
+P001,Smartphone,Electronics,2026-01-02,Flipkart,,23390,21.1,3.9,,
+P001,Smartphone,Electronics,2026-04-22,Flipkart,23390.0,25180,21.7,3.9,1790.0,7.65
+P001,Smartphone,Electronics,2026-05-14,Flipkart,25180.0,25290,10.3,3.9,110.0,0.44
+P001,Smartphone,Electronics,2026-06-01,Flipkart,25290.0,24510,17.3,3.9,-780.0,-3.08
+P002,Smartphone Pro,Electronics,2026-01-05,Amazon,,68830,23.5,4.7,,
+P002,Smartphone Pro,Electronics,2026-06-14,Amazon,68830.0,68100,8.3,4.7,-730.0,-1.06
+P002,Smartphone Pro,Electronics,2026-01-08,Croma,,72780,0.0,4.7,,
+P002,Smartphone Pro,Electronics,2026-04-08,Croma,72780.0,76770,11.1,4.7,3990.0,5.48
+P002,Smartphone Pro,Electronics,2026-06-05,Croma,76770.0,80550,11.6,4.7,3780.0,4.92
+P002,Smartphone Pro,Electronics,2026-01-20,Flipkart,,68380,10.1,4.7,,
+P002,Smartphone Pro,Electronics,2026-03-13,Flipkart,68380.0,68480,22.3,4.7,100.0,0.15
+P002,Smartphone Pro,Electronics,2026-05-01,Flipkart,68480.0,71110,1.8,4.7,2630.0,3.84
+P002,Smartphone Pro,Electronics,2026-06-19,Flipkart,71110.0,69740,3.7,4.7,-1370.0,-1.93
+P003,Laptop,Electronics,2026-01-16,Amazon,,41730,4.8,3.4,,
+P003,Laptop,Electronics,2026-02-12,Amazon,41730.0,41440,26.7,3.4,-290.0,-0.69
+P003,Laptop,Electronics,2026-04-10,Amazon,41440.0,41300,1.9,3.4,-140.0,-0.34
+P003,Laptop,Electronics,2026-06-12,Amazon,41300.0,37760,1.6,3.4,-3540.0,-8.57
+P003,Laptop,Electronics,2026-01-04,Croma,,43290,18.6,3.4,,
+P003,Laptop,Electronics,2026-04-06,Croma,43290.0,39810,18.2,3.4,-3480.0,-8.04
+P003,Laptop,Electronics,2026-05-06,Croma,39810.0,40790,16.6,3.4,980.0,2.46
+P003,Laptop,Electronics,2026-06-21,Croma,40790.0,39850,10.0,3.4,-940.0,-2.3
+P003,Laptop,Electronics,2026-01-20,Flipkart,,41890,8.2,3.4,,
+P003,Laptop,Electronics,2026-03-05,Flipkart,41890.0,41220,10.7,3.4,-670.0,-1.6
+P003,Laptop,Electronics,2026-04-06,Flipkart,41220.0,45100,3.6,3.4,3880.0,9.41
+P003,Laptop,Electronics,2026-05-22,Flipkart,45100.0,44060,15.1,3.4,-1040.0,-2.31
+P003,Laptop,Electronics,2026-06-12,Flipkart,44060.0,45450,0.0,3.4,1390.0,3.15
+P004,Laptop Pro,Electronics,2026-01-18,Amazon,,94700,11.5,4.9,,
+P004,Laptop Pro,Electronics,2026-04-10,Amazon,94700.0,101850,7.4,4.9,7150.0,7.55
+P004,Laptop Pro,Electronics,2026-06-08,Amazon,101850.0,105420,23.8,4.9,3570.0,3.51
+P004,Laptop Pro,Electronics,2026-01-09,Croma,,97460,14.4,4.9,,
+P004,Laptop Pro,Electronics,2026-02-06,Croma,97460.0,94340,17.4,4.9,-3120.0,-3.2
+P004,Laptop Pro,Electronics,2026-04-10,Croma,94340.0,95700,12.1,4.9,1360.0,1.44
+P004,Laptop Pro,Electronics,2026-06-03,Croma,95700.0,94380,11.1,4.9,-1320.0,-1.38
+P004,Laptop Pro,Electronics,2026-01-21,Flipkart,,93110,4.1,4.9,,
+P004,Laptop Pro,Electronics,2026-06-08,Flipkart,93110.0,95250,12.9,4.9,2140.0,2.3
+P005,Tablet,Electronics,2026-01-25,Amazon,,36800,20.8,4.5,,
+P005,Tablet,Electronics,2026-03-15,Amazon,36800.0,36940,17.9,4.5,140.0,0.38
+P005,Tablet,Electronics,2026-06-02,Amazon,36940.0,36780,6.7,4.5,-160.0,-0.43
+P005,Tablet,Electronics,2026-01-19,Croma,,37440,19.2,4.5,,
+P005,Tablet,Electronics,2026-06-11,Croma,37440.0,30950,18.0,4.5,-6490.0,-17.33
+P005,Tablet,Electronics,2026-01-07,Flipkart,,35770,5.7,4.5,,
+P005,Tablet,Electronics,2026-02-18,Flipkart,35770.0,36140,36.5,4.5,370.0,1.03
+P005,Tablet,Electronics,2026-04-09,Flipkart,36140.0,34180,1.9,4.5,-1960.0,-5.42
+P005,Tablet,Electronics,2026-06-18,Flipkart,34180.0,35730,16.1,4.5,1550.0,4.53
+P006,Tablet Pro,Electronics,2026-01-17,Amazon,,37630,2.3,3.4,,
+P006,Tablet Pro,Electronics,2026-02-25,Amazon,37630.0,38500,19.8,3.4,870.0,2.31
+P006,Tablet Pro,Electronics,2026-06-03,Amazon,38500.0,35910,5.1,3.4,-2590.0,-6.73
+P006,Tablet Pro,Electronics,2026-01-19,Croma,,37730,20.5,3.4,,
+P006,Tablet Pro,Electronics,2026-02-03,Croma,37730.0,36450,6.0,3.4,-1280.0,-3.39
+P006,Tablet Pro,Electronics,2026-06-12,Croma,36450.0,34730,0.0,3.4,-1720.0,-4.72
+P006,Tablet Pro,Electronics,2026-01-07,Flipkart,,36180,12.0,3.4,,
+P006,Tablet Pro,Electronics,2026-02-05,Flipkart,36180.0,36760,14.9,3.4,580.0,1.6
+P006,Tablet Pro,Electronics,2026-04-16,Flipkart,36760.0,37050,27.6,3.4,290.0,0.79
+P006,Tablet Pro,Electronics,2026-05-18,Flipkart,37050.0,36130,26.6,3.4,-920.0,-2.48
+P006,Tablet Pro,Electronics,2026-06-16,Flipkart,36130.0,35710,3.8,3.4,-420.0,-1.16
+P007,Smartwatch,Electronics,2026-01-09,Amazon,,15320,9.4,3.8,,
+P007,Smartwatch,Electronics,2026-04-09,Amazon,15320.0,15260,0.0,3.8,-60.0,-0.39
+P007,Smartwatch,Electronics,2026-06-19,Amazon,15260.0,16680,3.9,3.8,1420.0,9.31
+P007,Smartwatch,Electronics,2026-01-01,Croma,,15920,1.4,3.8,,
+P007,Smartwatch,Electronics,2026-06-20,Croma,15920.0,17850,8.4,3.8,1930.0,12.12
+P007,Smartwatch,Electronics,2026-01-23,Flipkart,,15120,20.2,3.8,,
+P007,Smartwatch,Electronics,2026-06-01,Flipkart,15120.0,15040,11.6,3.8,-80.0,-0.53
+P008,Smartwatch Pro,Electronics,2026-01-08,Amazon,,9380,22.0,4.8,,
+P008,Smartwatch Pro,Electronics,2026-05-01,Amazon,9380.0,10180,17.5,4.8,800.0,8.53
+P008,Smartwatch Pro,Electronics,2026-06-14,Amazon,10180.0,10580,0.0,4.8,400.0,3.93
+P008,Smartwatch Pro,Electronics,2026-01-08,Croma,,9730,11.2,4.8,,
+P008,Smartwatch Pro,Electronics,2026-05-08,Croma,9730.0,9470,5.3,4.8,-260.0,-2.67
+P008,Smartwatch Pro,Electronics,2026-06-15,Croma,9470.0,9650,22.1,4.8,180.0,1.9
+P008,Smartwatch Pro,Electronics,2026-01-20,Flipkart,,9400,0.0,4.8,,
+P008,Smartwatch Pro,Electronics,2026-04-23,Flipkart,9400.0,10060,2.2,4.8,660.0,7.02
+P008,Smartwatch Pro,Electronics,2026-05-04,Flipkart,10060.0,10220,15.2,4.8,160.0,1.59
+P008,Smartwatch Pro,Electronics,2026-06-12,Flipkart,10220.0,10040,5.9,4.8,-180.0,-1.76
+P009,Wireless Earbuds,Electronics,2026-01-17,Amazon,,9610,8.4,4.6,,
+P009,Wireless Earbuds,Electronics,2026-05-19,Amazon,9610.0,9970,8.5,4.6,360.0,3.75
+P009,Wireless Earbuds,Electronics,2026-06-24,Amazon,9970.0,9850,8.2,4.6,-120.0,-1.2
+P009,Wireless Earbuds,Electronics,2026-01-02,Croma,,9720,6.7,4.6,,
+P009,Wireless Earbuds,Electronics,2026-02-16,Croma,9720.0,10000,19.5,4.6,280.0,2.88
+P009,Wireless Earbuds,Electronics,2026-06-02,Croma,10000.0,9420,26.6,4.6,-580.0,-5.8
+P009,Wireless Earbuds,Electronics,2026-01-11,Flipkart,,9270,0.0,4.6,,
+P009,Wireless Earbuds,Electronics,2026-02-16,Flipkart,9270.0,9330,18.2,4.6,60.0,0.65
+P009,Wireless Earbuds,Electronics,2026-06-04,Flipkart,9330.0,9500,5.1,4.6,170.0,1.82
+P010,Wireless Earbuds Pro,Electronics,2026-01-24,Amazon,,8070,18.2,4.0,,
+P010,Wireless Earbuds Pro,Electronics,2026-02-19,Amazon,8070.0,8790,14.3,4.0,720.0,8.92
+P010,Wireless Earbuds Pro,Electronics,2026-06-15,Amazon,8790.0,7650,6.7,4.0,-1140.0,-12.97
+P010,Wireless Earbuds Pro,Electronics,2026-01-08,Croma,,8340,4.7,4.0,,
+P010,Wireless Earbuds Pro,Electronics,2026-04-12,Croma,8340.0,8670,10.9,4.0,330.0,3.96
+P010,Wireless Earbuds Pro,Electronics,2026-06-05,Croma,8670.0,8840,7.1,4.0,170.0,1.96
+P010,Wireless Earbuds Pro,Electronics,2026-01-22,Flipkart,,7770,12.4,4.0,,
+P010,Wireless Earbuds Pro,Electronics,2026-03-11,Flipkart,7770.0,7720,7.0,4.0,-50.0,-0.64
+P010,Wireless Earbuds Pro,Electronics,2026-05-06,Flipkart,7720.0,7900,3.0,4.0,180.0,2.33
+P010,Wireless Earbuds Pro,Electronics,2026-06-03,Flipkart,7900.0,7970,22.1,4.0,70.0,0.89
+P011,Bluetooth Speaker,Electronics,2026-01-20,Amazon,,7400,2.5,4.1,,
+P011,Bluetooth Speaker,Electronics,2026-02-08,Amazon,7400.0,7270,20.5,4.1,-130.0,-1.76
+P011,Bluetooth Speaker,Electronics,2026-03-08,Amazon,7270.0,7270,19.8,4.1,0.0,0.0
+P011,Bluetooth Speaker,Electronics,2026-06-09,Amazon,7270.0,7200,12.3,4.1,-70.0,-0.96
+P011,Bluetooth Speaker,Electronics,2026-01-04,Croma,,7660,3.8,4.1,,
+P011,Bluetooth Speaker,Electronics,2026-02-11,Croma,7660.0,7590,20.1,4.1,-70.0,-0.91
+P011,Bluetooth Speaker,Electronics,2026-06-12,Croma,7590.0,8890,1.5,4.1,1300.0,17.13
+P011,Bluetooth Speaker,Electronics,2026-01-02,Flipkart,,7260,1.1,4.1,,
+P011,Bluetooth Speaker,Electronics,2026-02-02,Flipkart,7260.0,7350,5.4,4.1,90.0,1.24
+P011,Bluetooth Speaker,Electronics,2026-03-06,Flipkart,7350.0,7500,12.7,4.1,150.0,2.04
+P011,Bluetooth Speaker,Electronics,2026-05-09,Flipkart,7500.0,6850,11.1,4.1,-650.0,-8.67
+P011,Bluetooth Speaker,Electronics,2026-06-24,Flipkart,6850.0,6660,20.5,4.1,-190.0,-2.77
+P012,Bluetooth Speaker Pro,Electronics,2026-01-12,Amazon,,4350,3.4,3.3,,
+P012,Bluetooth Speaker Pro,Electronics,2026-06-15,Amazon,4350.0,4290,19.0,3.3,-60.0,-1.38
+P012,Bluetooth Speaker Pro,Electronics,2026-01-05,Croma,,4530,11.7,3.3,,
+P012,Bluetooth Speaker Pro,Electronics,2026-02-03,Croma,4530.0,4490,9.5,3.3,-40.0,-0.88
+P012,Bluetooth Speaker Pro,Electronics,2026-04-21,Croma,4490.0,4450,20.7,3.3,-40.0,-0.89
+P012,Bluetooth Speaker Pro,Electronics,2026-06-20,Croma,4450.0,4460,9.4,3.3,10.0,0.22
+P012,Bluetooth Speaker Pro,Electronics,2026-01-19,Flipkart,,4300,13.5,3.3,,
+P012,Bluetooth Speaker Pro,Electronics,2026-03-03,Flipkart,4300.0,4200,11.6,3.3,-100.0,-2.33
+P012,Bluetooth Speaker Pro,Electronics,2026-06-22,Flipkart,4200.0,4170,0.8,3.3,-30.0,-0.71
+P013,Monitor,Electronics,2026-01-07,Amazon,,26650,1.1,4.3,,
+P013,Monitor,Electronics,2026-03-15,Amazon,26650.0,25640,20.6,4.3,-1010.0,-3.79
+P013,Monitor,Electronics,2026-04-18,Amazon,25640.0,25440,3.8,4.3,-200.0,-0.78
+P013,Monitor,Electronics,2026-05-09,Amazon,25440.0,25510,10.3,4.3,70.0,0.28
+P013,Monitor,Electronics,2026-06-10,Amazon,25510.0,25710,8.0,4.3,200.0,0.78
+P013,Monitor,Electronics,2026-01-11,Croma,,27240,12.2,4.3,,
+P013,Monitor,Electronics,2026-02-13,Croma,27240.0,27200,11.7,4.3,-40.0,-0.15
+P013,Monitor,Electronics,2026-06-19,Croma,27200.0,28870,8.8,4.3,1670.0,6.14
+P013,Monitor,Electronics,2026-01-13,Flipkart,,26510,3.9,4.3,,
+P013,Monitor,Electronics,2026-02-06,Flipkart,26510.0,26710,8.4,4.3,200.0,0.75
+P013,Monitor,Electronics,2026-03-24,Flipkart,26710.0,24920,17.2,4.3,-1790.0,-6.7
+P013,Monitor,Electronics,2026-06-24,Flipkart,24920.0,26010,10.6,4.3,1090.0,4.37
+P014,Monitor Pro,Electronics,2026-01-03,Amazon,,25750,13.4,4.5,,
+P014,Monitor Pro,Electronics,2026-03-09,Amazon,25750.0,24990,4.7,4.5,-760.0,-2.95
+P014,Monitor Pro,Electronics,2026-06-14,Amazon,24990.0,25940,12.5,4.5,950.0,3.8
+P014,Monitor Pro,Electronics,2026-01-19,Croma,,27020,8.0,4.5,,
+P014,Monitor Pro,Electronics,2026-02-19,Croma,27020.0,26130,0.0,4.5,-890.0,-3.29
+P014,Monitor Pro,Electronics,2026-03-10,Croma,26130.0,24230,3.4,4.5,-1900.0,-7.27
+P014,Monitor Pro,Electronics,2026-06-08,Croma,24230.0,23210,0.0,4.5,-1020.0,-4.21
+P014,Monitor Pro,Electronics,2026-01-02,Flipkart,,25840,1.7,4.5,,
+P014,Monitor Pro,Electronics,2026-04-02,Flipkart,25840.0,23840,12.2,4.5,-2000.0,-7.74
+P014,Monitor Pro,Electronics,2026-06-04,Flipkart,23840.0,23940,14.4,4.5,100.0,0.42
+P015,Power Bank,Electronics,2026-01-23,Amazon,,2660,17.7,4.9,,
+P015,Power Bank,Electronics,2026-04-15,Amazon,2660.0,2680,25.4,4.9,20.0,0.75
+P015,Power Bank,Electronics,2026-05-20,Amazon,2680.0,2740,11.7,4.9,60.0,2.24
+P015,Power Bank,Electronics,2026-06-06,Amazon,2740.0,2820,0.0,4.9,80.0,2.92
+P015,Power Bank,Electronics,2026-01-10,Croma,,2780,19.8,4.9,,
+P015,Power Bank,Electronics,2026-06-21,Croma,2780.0,3090,7.7,4.9,310.0,11.15
+P015,Power Bank,Electronics,2026-01-19,Flipkart,,2620,15.0,4.9,,
+P015,Power Bank,Electronics,2026-04-13,Flipkart,2620.0,2590,15.0,4.9,-30.0,-1.15
+P015,Power Bank,Electronics,2026-05-12,Flipkart,2590.0,2590,27.0,4.9,0.0,0.0
+P015,Power Bank,Electronics,2026-06-07,Flipkart,2590.0,2630,18.3,4.9,40.0,1.54
+P016,Power Bank Pro,Electronics,2026-01-04,Amazon,,1670,1.0,4.7,,
+P016,Power Bank Pro,Electronics,2026-04-09,Amazon,1670.0,1850,15.9,4.7,180.0,10.78
+P016,Power Bank Pro,Electronics,2026-06-25,Amazon,1850.0,1860,22.9,4.7,10.0,0.54
+P016,Power Bank Pro,Electronics,2026-01-22,Croma,,1760,16.8,4.7,,
+P016,Power Bank Pro,Electronics,2026-05-16,Croma,1760.0,1740,22.6,4.7,-20.0,-1.14
+P016,Power Bank Pro,Electronics,2026-06-11,Croma,1740.0,1780,17.1,4.7,40.0,2.3
+P016,Power Bank Pro,Electronics,2026-01-25,Flipkart,,1680,8.0,4.7,,
+P016,Power Bank Pro,Electronics,2026-03-23,Flipkart,1680.0,1660,19.8,4.7,-20.0,-1.19
+P016,Power Bank Pro,Electronics,2026-04-05,Flipkart,1660.0,1580,22.5,4.7,-80.0,-4.82
+P016,Power Bank Pro,Electronics,2026-06-20,Flipkart,1580.0,1520,20.7,4.7,-60.0,-3.8
+P017,Router,Electronics,2026-01-02,Amazon,,5180,12.1,3.5,,
+P017,Router,Electronics,2026-03-25,Amazon,5180.0,5290,6.2,3.5,110.0,2.12
+P017,Router,Electronics,2026-05-06,Amazon,5290.0,5080,12.3,3.5,-210.0,-3.97
+P017,Router,Electronics,2026-06-13,Amazon,5080.0,5160,0.0,3.5,80.0,1.57
+P017,Router,Electronics,2026-01-21,Croma,,5300,10.3,3.5,,
+P017,Router,Electronics,2026-03-18,Croma,5300.0,5620,16.6,3.5,320.0,6.04
+P017,Router,Electronics,2026-04-01,Croma,5620.0,5460,5.4,3.5,-160.0,-2.85
+P017,Router,Electronics,2026-06-11,Croma,5460.0,5720,12.9,3.5,260.0,4.76
+P017,Router,Electronics,2026-01-04,Flipkart,,4980,9.3,3.5,,
+P017,Router,Electronics,2026-03-19,Flipkart,4980.0,4890,5.5,3.5,-90.0,-1.81
+P017,Router,Electronics,2026-06-12,Flipkart,4890.0,4840,13.4,3.5,-50.0,-1.02
+P018,Router Pro,Electronics,2026-01-23,Amazon,,5690,13.5,4.0,,
+P018,Router Pro,Electronics,2026-03-23,Amazon,5690.0,5820,16.5,4.0,130.0,2.28
+P018,Router Pro,Electronics,2026-05-10,Amazon,5820.0,6100,17.2,4.0,280.0,4.81
+P018,Router Pro,Electronics,2026-06-07,Amazon,6100.0,5910,28.4,4.0,-190.0,-3.11
+P018,Router Pro,Electronics,2026-01-01,Croma,,5870,6.4,4.0,,
+P018,Router Pro,Electronics,2026-06-03,Croma,5870.0,5600,9.9,4.0,-270.0,-4.6
+P018,Router Pro,Electronics,2026-01-19,Flipkart,,5540,7.4,4.0,,
+P018,Router Pro,Electronics,2026-02-19,Flipkart,5540.0,5800,23.2,4.0,260.0,4.69
+P018,Router Pro,Electronics,2026-04-13,Flipkart,5800.0,5780,19.7,4.0,-20.0,-0.34
+P018,Router Pro,Electronics,2026-05-15,Flipkart,5780.0,5970,0.9,4.0,190.0,3.29
+P018,Router Pro,Electronics,2026-06-09,Flipkart,5970.0,5850,23.7,4.0,-120.0,-2.01
+P019,Keyboard,Electronics,2026-01-04,Amazon,,2750,11.0,3.5,,
+P019,Keyboard,Electronics,2026-04-15,Amazon,2750.0,2890,1.7,3.5,140.0,5.09
+P019,Keyboard,Electronics,2026-05-13,Amazon,2890.0,2930,9.9,3.5,40.0,1.38
+P019,Keyboard,Electronics,2026-06-19,Amazon,2930.0,3010,13.9,3.5,80.0,2.73
+P019,Keyboard,Electronics,2026-01-13,Croma,,2850,15.9,3.5,,
+P019,Keyboard,Electronics,2026-03-07,Croma,2850.0,2820,16.2,3.5,-30.0,-1.05
+P019,Keyboard,Electronics,2026-05-06,Croma,2820.0,2580,0.0,3.5,-240.0,-8.51
+P019,Keyboard,Electronics,2026-06-05,Croma,2580.0,2520,1.1,3.5,-60.0,-2.33
+P019,Keyboard,Electronics,2026-01-21,Flipkart,,2720,18.8,3.5,,
+P019,Keyboard,Electronics,2026-06-17,Flipkart,2720.0,2980,17.0,3.5,260.0,9.56
+P020,Keyboard Pro,Electronics,2026-01-09,Amazon,,690,22.8,4.4,,
+P020,Keyboard Pro,Electronics,2026-03-13,Amazon,690.0,670,17.7,4.4,-20.0,-2.9
+P020,Keyboard Pro,Electronics,2026-04-21,Amazon,670.0,670,0.0,4.4,0.0,0.0
+P020,Keyboard Pro,Electronics,2026-06-19,Amazon,670.0,650,1.4,4.4,-20.0,-2.99
+P020,Keyboard Pro,Electronics,2026-01-24,Croma,,720,11.2,4.4,,
+P020,Keyboard Pro,Electronics,2026-04-15,Croma,720.0,720,23.1,4.4,0.0,0.0
+P020,Keyboard Pro,Electronics,2026-06-06,Croma,720.0,740,17.1,4.4,20.0,2.78
+P020,Keyboard Pro,Electronics,2026-01-03,Flipkart,,690,10.9,4.4,,
+P020,Keyboard Pro,Electronics,2026-06-15,Flipkart,690.0,590,9.8,4.4,-100.0,-14.49
+P021,Mixer Grinder,Home Appliances,2026-01-16,Amazon,,6120,17.1,4.8,,
+P021,Mixer Grinder,Home Appliances,2026-02-16,Amazon,6120.0,6220,34.4,4.8,100.0,1.63
+P021,Mixer Grinder,Home Appliances,2026-05-20,Amazon,6220.0,5640,0.0,4.8,-580.0,-9.32
+P021,Mixer Grinder,Home Appliances,2026-06-11,Amazon,5640.0,5420,19.2,4.8,-220.0,-3.9
+P021,Mixer Grinder,Home Appliances,2026-01-10,Croma,,6340,11.4,4.8,,
+P021,Mixer Grinder,Home Appliances,2026-04-05,Croma,6340.0,6480,15.0,4.8,140.0,2.21
+P021,Mixer Grinder,Home Appliances,2026-06-16,Croma,6480.0,6530,0.0,4.8,50.0,0.77
+P021,Mixer Grinder,Home Appliances,2026-01-02,Flipkart,,6000,18.1,4.8,,
+P021,Mixer Grinder,Home Appliances,2026-05-08,Flipkart,6000.0,5910,14.4,4.8,-90.0,-1.5
+P021,Mixer Grinder,Home Appliances,2026-06-24,Flipkart,5910.0,5990,11.5,4.8,80.0,1.35
+P022,Mixer Grinder Pro,Home Appliances,2026-01-08,Amazon,,5250,17.0,3.8,,
+P022,Mixer Grinder Pro,Home Appliances,2026-02-25,Amazon,5250.0,5210,0.0,3.8,-40.0,-0.76
+P022,Mixer Grinder Pro,Home Appliances,2026-06-03,Amazon,5210.0,5480,18.7,3.8,270.0,5.18
+P022,Mixer Grinder Pro,Home Appliances,2026-01-23,Croma,,5510,29.1,3.8,,
+P022,Mixer Grinder Pro,Home Appliances,2026-04-07,Croma,5510.0,5700,5.8,3.8,190.0,3.45
+P022,Mixer Grinder Pro,Home Appliances,2026-06-24,Croma,5700.0,5610,23.4,3.8,-90.0,-1.58
+P022,Mixer Grinder Pro,Home Appliances,2026-01-22,Flipkart,,5160,7.8,3.8,,
+P022,Mixer Grinder Pro,Home Appliances,2026-03-06,Flipkart,5160.0,5200,21.2,3.8,40.0,0.78
+P022,Mixer Grinder Pro,Home Appliances,2026-05-14,Flipkart,5200.0,5130,6.1,3.8,-70.0,-1.35
+P022,Mixer Grinder Pro,Home Appliances,2026-06-12,Flipkart,5130.0,5140,13.5,3.8,10.0,0.19
+P023,Air Fryer,Home Appliances,2026-01-20,Amazon,,11210,5.5,4.0,,
+P023,Air Fryer,Home Appliances,2026-02-03,Amazon,11210.0,11080,16.7,4.0,-130.0,-1.16
+P023,Air Fryer,Home Appliances,2026-03-21,Amazon,11080.0,10500,1.2,4.0,-580.0,-5.23
+P023,Air Fryer,Home Appliances,2026-04-05,Amazon,10500.0,10630,9.2,4.0,130.0,1.24
+P023,Air Fryer,Home Appliances,2026-05-06,Amazon,10630.0,10680,0.0,4.0,50.0,0.47
+P023,Air Fryer,Home Appliances,2026-06-23,Amazon,10680.0,10650,2.8,4.0,-30.0,-0.28
+P023,Air Fryer,Home Appliances,2026-01-01,Croma,,11690,3.5,4.0,,
+P023,Air Fryer,Home Appliances,2026-03-10,Croma,11690.0,11390,17.0,4.0,-300.0,-2.57
+P023,Air Fryer,Home Appliances,2026-04-04,Croma,11390.0,11240,1.1,4.0,-150.0,-1.32
+P023,Air Fryer,Home Appliances,2026-05-12,Croma,11240.0,11200,26.3,4.0,-40.0,-0.36
+P023,Air Fryer,Home Appliances,2026-06-23,Croma,11200.0,11020,14.6,4.0,-180.0,-1.61
+P023,Air Fryer,Home Appliances,2026-01-24,Flipkart,,11100,1.8,4.0,,
+P023,Air Fryer,Home Appliances,2026-04-09,Flipkart,11100.0,10430,15.2,4.0,-670.0,-6.04
+P023,Air Fryer,Home Appliances,2026-06-05,Flipkart,10430.0,10390,14.6,4.0,-40.0,-0.38
+P024,Air Fryer Pro,Home Appliances,2026-01-02,Amazon,,6570,10.0,3.5,,
+P024,Air Fryer Pro,Home Appliances,2026-04-13,Amazon,6570.0,6420,9.5,3.5,-150.0,-2.28
+P024,Air Fryer Pro,Home Appliances,2026-06-07,Amazon,6420.0,6490,13.8,3.5,70.0,1.09
+P024,Air Fryer Pro,Home Appliances,2026-01-13,Croma,,6850,6.2,3.5,,
+P024,Air Fryer Pro,Home Appliances,2026-03-19,Croma,6850.0,6860,11.5,3.5,10.0,0.15
+P024,Air Fryer Pro,Home Appliances,2026-04-13,Croma,6860.0,7050,8.7,3.5,190.0,2.77
+P024,Air Fryer Pro,Home Appliances,2026-05-09,Croma,7050.0,7260,19.9,3.5,210.0,2.98
+P024,Air Fryer Pro,Home Appliances,2026-06-07,Croma,7260.0,7260,0.0,3.5,0.0,0.0
+P024,Air Fryer Pro,Home Appliances,2026-01-16,Flipkart,,6450,14.8,3.5,,
+P024,Air Fryer Pro,Home Appliances,2026-02-07,Flipkart,6450.0,6150,15.2,3.5,-300.0,-4.65
+P024,Air Fryer Pro,Home Appliances,2026-05-24,Flipkart,6150.0,5990,13.7,3.5,-160.0,-2.6
+P024,Air Fryer Pro,Home Appliances,2026-06-16,Flipkart,5990.0,5730,15.8,3.5,-260.0,-4.34
+P025,Vacuum Cleaner,Home Appliances,2026-01-12,Amazon,,12500,0.0,4.0,,
+P025,Vacuum Cleaner,Home Appliances,2026-06-15,Amazon,12500.0,11750,13.8,4.0,-750.0,-6.0
+P025,Vacuum Cleaner,Home Appliances,2026-01-09,Croma,,12720,9.5,4.0,,
+P025,Vacuum Cleaner,Home Appliances,2026-05-18,Croma,12720.0,13120,9.5,4.0,400.0,3.14
+P025,Vacuum Cleaner,Home Appliances,2026-06-15,Croma,13120.0,13280,5.3,4.0,160.0,1.22
+P025,Vacuum Cleaner,Home Appliances,2026-01-11,Flipkart,,12010,15.5,4.0,,
+P025,Vacuum Cleaner,Home Appliances,2026-06-08,Flipkart,12010.0,12100,4.7,4.0,90.0,0.75
+P026,Vacuum Cleaner Pro,Home Appliances,2026-01-17,Amazon,,6300,1.1,3.6,,
+P026,Vacuum Cleaner Pro,Home Appliances,2026-04-09,Amazon,6300.0,6980,4.9,3.6,680.0,10.79
+P026,Vacuum Cleaner Pro,Home Appliances,2026-06-22,Amazon,6980.0,6970,4.3,3.6,-10.0,-0.14
+P026,Vacuum Cleaner Pro,Home Appliances,2026-01-01,Croma,,6530,6.8,3.6,,
+P026,Vacuum Cleaner Pro,Home Appliances,2026-06-02,Croma,6530.0,7230,7.0,3.6,700.0,10.72
+P026,Vacuum Cleaner Pro,Home Appliances,2026-01-04,Flipkart,,6300,12.7,3.6,,
+P026,Vacuum Cleaner Pro,Home Appliances,2026-03-13,Flipkart,6300.0,6250,10.8,3.6,-50.0,-0.79
+P026,Vacuum Cleaner Pro,Home Appliances,2026-04-04,Flipkart,6250.0,6400,0.5,3.6,150.0,2.4
+P026,Vacuum Cleaner Pro,Home Appliances,2026-05-13,Flipkart,6400.0,6450,4.3,3.6,50.0,0.78
+P026,Vacuum Cleaner Pro,Home Appliances,2026-06-05,Flipkart,6450.0,6450,10.7,3.6,0.0,0.0
+P027,Water Purifier,Home Appliances,2026-01-11,Amazon,,16740,7.9,3.9,,
+P027,Water Purifier,Home Appliances,2026-02-09,Amazon,16740.0,16700,18.9,3.9,-40.0,-0.24
+P027,Water Purifier,Home Appliances,2026-03-16,Amazon,16700.0,16820,12.6,3.9,120.0,0.72
+P027,Water Purifier,Home Appliances,2026-04-17,Amazon,16820.0,17240,20.2,3.9,420.0,2.5
+P027,Water Purifier,Home Appliances,2026-05-23,Amazon,17240.0,16960,11.8,3.9,-280.0,-1.62
+P027,Water Purifier,Home Appliances,2026-06-23,Amazon,16960.0,16790,0.0,3.9,-170.0,-1.0
+P027,Water Purifier,Home Appliances,2026-01-09,Croma,,17360,4.0,3.9,,
+P027,Water Purifier,Home Appliances,2026-04-02,Croma,17360.0,17820,14.9,3.9,460.0,2.65
+P027,Water Purifier,Home Appliances,2026-06-12,Croma,17820.0,18070,11.3,3.9,250.0,1.4
+P027,Water Purifier,Home Appliances,2026-01-17,Flipkart,,16600,26.8,3.9,,
+P027,Water Purifier,Home Appliances,2026-04-05,Flipkart,16600.0,18600,9.2,3.9,2000.0,12.05
+P027,Water Purifier,Home Appliances,2026-05-02,Flipkart,18600.0,19060,0.0,3.9,460.0,2.47
+P027,Water Purifier,Home Appliances,2026-06-21,Flipkart,19060.0,19630,22.2,3.9,570.0,2.99
+P028,Water Purifier Pro,Home Appliances,2026-01-13,Amazon,,18630,39.6,4.6,,
+P028,Water Purifier Pro,Home Appliances,2026-02-10,Amazon,18630.0,18400,14.3,4.6,-230.0,-1.23
+P028,Water Purifier Pro,Home Appliances,2026-03-16,Amazon,18400.0,18220,23.4,4.6,-180.0,-0.98
+P028,Water Purifier Pro,Home Appliances,2026-06-20,Amazon,18220.0,17550,0.0,4.6,-670.0,-3.68
+P028,Water Purifier Pro,Home Appliances,2026-01-11,Croma,,19300,30.8,4.6,,
+P028,Water Purifier Pro,Home Appliances,2026-06-20,Croma,19300.0,20360,15.1,4.6,1060.0,5.49
+P028,Water Purifier Pro,Home Appliances,2026-01-24,Flipkart,,18360,1.2,4.6,,
+P028,Water Purifier Pro,Home Appliances,2026-02-07,Flipkart,18360.0,18400,10.2,4.6,40.0,0.22
+P028,Water Purifier Pro,Home Appliances,2026-05-11,Flipkart,18400.0,17930,2.9,4.6,-470.0,-2.55
+P028,Water Purifier Pro,Home Appliances,2026-06-08,Flipkart,17930.0,17130,3.8,4.6,-800.0,-4.46
+P029,Electric Kettle,Home Appliances,2026-01-08,Amazon,,2130,0.0,3.7,,
+P029,Electric Kettle,Home Appliances,2026-04-18,Amazon,2130.0,2450,16.3,3.7,320.0,15.02
+P029,Electric Kettle,Home Appliances,2026-06-05,Amazon,2450.0,2270,23.1,3.7,-180.0,-7.35
+P029,Electric Kettle,Home Appliances,2026-01-01,Croma,,2190,12.2,3.7,,
+P029,Electric Kettle,Home Appliances,2026-05-01,Croma,2190.0,2510,3.0,3.7,320.0,14.61
+P029,Electric Kettle,Home Appliances,2026-06-04,Croma,2510.0,2510,5.2,3.7,0.0,0.0
+P029,Electric Kettle,Home Appliances,2026-01-25,Flipkart,,2080,25.8,3.7,,
+P029,Electric Kettle,Home Appliances,2026-03-19,Flipkart,2080.0,2130,25.0,3.7,50.0,2.4
+P029,Electric Kettle,Home Appliances,2026-04-10,Flipkart,2130.0,2150,16.3,3.7,20.0,0.94
+P029,Electric Kettle,Home Appliances,2026-06-02,Flipkart,2150.0,2200,2.5,3.7,50.0,2.33
+P030,Electric Kettle Pro,Home Appliances,2026-01-13,Amazon,,2330,0.0,4.6,,
+P030,Electric Kettle Pro,Home Appliances,2026-06-08,Amazon,2330.0,2320,20.9,4.6,-10.0,-0.43
+P030,Electric Kettle Pro,Home Appliances,2026-01-01,Croma,,2370,0.0,4.6,,
+P030,Electric Kettle Pro,Home Appliances,2026-02-14,Croma,2370.0,2290,22.3,4.6,-80.0,-3.38
+P030,Electric Kettle Pro,Home Appliances,2026-06-11,Croma,2290.0,2390,12.6,4.6,100.0,4.37
+P030,Electric Kettle Pro,Home Appliances,2026-01-03,Flipkart,,2250,3.3,4.6,,
+P030,Electric Kettle Pro,Home Appliances,2026-02-05,Flipkart,2250.0,2330,15.2,4.6,80.0,3.56
+P030,Electric Kettle Pro,Home Appliances,2026-03-11,Flipkart,2330.0,2280,15.1,4.6,-50.0,-2.15
+P030,Electric Kettle Pro,Home Appliances,2026-05-19,Flipkart,2280.0,2200,8.9,4.6,-80.0,-3.51
+P030,Electric Kettle Pro,Home Appliances,2026-06-06,Flipkart,2200.0,2280,10.1,4.6,80.0,3.64
+P031,Microwave Oven,Home Appliances,2026-01-07,Amazon,,10550,14.6,3.9,,
+P031,Microwave Oven,Home Appliances,2026-02-16,Amazon,10550.0,11680,12.3,3.9,1130.0,10.71
+P031,Microwave Oven,Home Appliances,2026-04-07,Amazon,11680.0,11360,14.0,3.9,-320.0,-2.74
+P031,Microwave Oven,Home Appliances,2026-06-08,Amazon,11360.0,11600,11.6,3.9,240.0,2.11
+P031,Microwave Oven,Home Appliances,2026-01-22,Croma,,10890,15.3,3.9,,
+P031,Microwave Oven,Home Appliances,2026-04-23,Croma,10890.0,10470,10.4,3.9,-420.0,-3.86
+P031,Microwave Oven,Home Appliances,2026-06-17,Croma,10470.0,9600,2.8,3.9,-870.0,-8.31
+P031,Microwave Oven,Home Appliances,2026-01-01,Flipkart,,10380,0.0,3.9,,
+P031,Microwave Oven,Home Appliances,2026-04-19,Flipkart,10380.0,10830,2.5,3.9,450.0,4.34
+P031,Microwave Oven,Home Appliances,2026-06-15,Flipkart,10830.0,10810,24.2,3.9,-20.0,-0.18
+P032,Microwave Oven Pro,Home Appliances,2026-01-23,Amazon,,15300,15.6,3.7,,
+P032,Microwave Oven Pro,Home Appliances,2026-04-06,Amazon,15300.0,15590,10.6,3.7,290.0,1.9
+P032,Microwave Oven Pro,Home Appliances,2026-05-01,Amazon,15590.0,15720,17.9,3.7,130.0,0.83
+P032,Microwave Oven Pro,Home Appliances,2026-06-17,Amazon,15720.0,15420,0.0,3.7,-300.0,-1.91
+P032,Microwave Oven Pro,Home Appliances,2026-01-22,Croma,,15740,6.5,3.7,,
+P032,Microwave Oven Pro,Home Appliances,2026-06-22,Croma,15740.0,15250,11.3,3.7,-490.0,-3.11
+P032,Microwave Oven Pro,Home Appliances,2026-01-08,Flipkart,,15220,9.7,3.7,,
+P032,Microwave Oven Pro,Home Appliances,2026-06-22,Flipkart,15220.0,17060,0.0,3.7,1840.0,12.09
+P033,Refrigerator,Home Appliances,2026-01-05,Amazon,,26830,14.9,3.4,,
+P033,Refrigerator,Home Appliances,2026-02-24,Amazon,26830.0,26850,21.3,3.4,20.0,0.07
+P033,Refrigerator,Home Appliances,2026-03-22,Amazon,26850.0,28050,18.1,3.4,1200.0,4.47
+P033,Refrigerator,Home Appliances,2026-04-02,Amazon,28050.0,28740,6.4,3.4,690.0,2.46
+P033,Refrigerator,Home Appliances,2026-05-19,Amazon,28740.0,28660,4.0,3.4,-80.0,-0.28
+P033,Refrigerator,Home Appliances,2026-06-25,Amazon,28660.0,29780,13.4,3.4,1120.0,3.91
+P033,Refrigerator,Home Appliances,2026-01-18,Croma,,27370,20.7,3.4,,
+P033,Refrigerator,Home Appliances,2026-06-16,Croma,27370.0,23180,19.9,3.4,-4190.0,-15.31
+P033,Refrigerator,Home Appliances,2026-01-25,Flipkart,,26290,3.8,3.4,,
+P033,Refrigerator,Home Appliances,2026-04-12,Flipkart,26290.0,27220,3.4,3.4,930.0,3.54
+P033,Refrigerator,Home Appliances,2026-06-08,Flipkart,27220.0,24390,15.4,3.4,-2830.0,-10.4
+P034,Refrigerator Pro,Home Appliances,2026-01-14,Amazon,,48840,18.1,3.5,,
+P034,Refrigerator Pro,Home Appliances,2026-02-17,Amazon,48840.0,53660,13.7,3.5,4820.0,9.87
+P034,Refrigerator Pro,Home Appliances,2026-03-17,Amazon,53660.0,54340,11.7,3.5,680.0,1.27
+P034,Refrigerator Pro,Home Appliances,2026-06-11,Amazon,54340.0,57340,13.8,3.5,3000.0,5.52
+P034,Refrigerator Pro,Home Appliances,2026-01-17,Croma,,51140,19.6,3.5,,
+P034,Refrigerator Pro,Home Appliances,2026-02-13,Croma,51140.0,50760,18.5,3.5,-380.0,-0.74
+P034,Refrigerator Pro,Home Appliances,2026-03-19,Croma,50760.0,51570,9.7,3.5,810.0,1.6
+P034,Refrigerator Pro,Home Appliances,2026-04-16,Croma,51570.0,51010,0.0,3.5,-560.0,-1.09
+P034,Refrigerator Pro,Home Appliances,2026-05-16,Croma,51010.0,50990,18.3,3.5,-20.0,-0.04
+P034,Refrigerator Pro,Home Appliances,2026-06-16,Croma,50990.0,52230,3.6,3.5,1240.0,2.43
+P034,Refrigerator Pro,Home Appliances,2026-01-23,Flipkart,,48700,0.0,3.5,,
+P034,Refrigerator Pro,Home Appliances,2026-05-10,Flipkart,48700.0,47360,8.0,3.5,-1340.0,-2.75
+P034,Refrigerator Pro,Home Appliances,2026-06-17,Flipkart,47360.0,46580,0.1,3.5,-780.0,-1.65
+P035,Washing Machine,Home Appliances,2026-01-04,Amazon,,46180,14.9,4.5,,
+P035,Washing Machine,Home Appliances,2026-03-01,Amazon,46180.0,46990,4.7,4.5,810.0,1.75
+P035,Washing Machine,Home Appliances,2026-04-09,Amazon,46990.0,46480,3.1,4.5,-510.0,-1.09
+P035,Washing Machine,Home Appliances,2026-06-07,Amazon,46480.0,48900,17.5,4.5,2420.0,5.21
+P035,Washing Machine,Home Appliances,2026-01-20,Croma,,48460,20.4,4.5,,
+P035,Washing Machine,Home Appliances,2026-02-20,Croma,48460.0,50540,4.8,4.5,2080.0,4.29
+P035,Washing Machine,Home Appliances,2026-05-19,Croma,50540.0,46420,0.0,4.5,-4120.0,-8.15
+P035,Washing Machine,Home Appliances,2026-06-11,Croma,46420.0,46880,18.1,4.5,460.0,0.99
+P035,Washing Machine,Home Appliances,2026-01-15,Flipkart,,45290,26.2,4.5,,
+P035,Washing Machine,Home Appliances,2026-03-05,Flipkart,45290.0,44090,14.9,4.5,-1200.0,-2.65
+P035,Washing Machine,Home Appliances,2026-06-03,Flipkart,44090.0,44200,15.7,4.5,110.0,0.25
+P036,Washing Machine Pro,Home Appliances,2026-01-19,Amazon,,12280,9.7,4.3,,
+P036,Washing Machine Pro,Home Appliances,2026-02-02,Amazon,12280.0,12820,14.9,4.3,540.0,4.4
+P036,Washing Machine Pro,Home Appliances,2026-03-09,Amazon,12820.0,13040,18.1,4.3,220.0,1.72
+P036,Washing Machine Pro,Home Appliances,2026-05-07,Amazon,13040.0,13530,9.1,4.3,490.0,3.76
+P036,Washing Machine Pro,Home Appliances,2026-06-16,Amazon,13530.0,14240,14.6,4.3,710.0,5.25
+P036,Washing Machine Pro,Home Appliances,2026-01-01,Croma,,12590,4.8,4.3,,
+P036,Washing Machine Pro,Home Appliances,2026-04-24,Croma,12590.0,14750,14.5,4.3,2160.0,17.16
+P036,Washing Machine Pro,Home Appliances,2026-06-05,Croma,14750.0,13020,2.4,4.3,-1730.0,-11.73
+P036,Washing Machine Pro,Home Appliances,2026-01-02,Flipkart,,11960,8.6,4.3,,
+P036,Washing Machine Pro,Home Appliances,2026-04-16,Flipkart,11960.0,12290,6.7,4.3,330.0,2.76
+P036,Washing Machine Pro,Home Appliances,2026-06-11,Flipkart,12290.0,12600,25.3,4.3,310.0,2.52
+P037,Ceiling Fan,Home Appliances,2026-01-14,Amazon,,3620,4.4,4.5,,
+P037,Ceiling Fan,Home Appliances,2026-05-17,Amazon,3620.0,3320,19.9,4.5,-300.0,-8.29
+P037,Ceiling Fan,Home Appliances,2026-06-14,Amazon,3320.0,3210,8.4,4.5,-110.0,-3.31
+P037,Ceiling Fan,Home Appliances,2026-01-12,Croma,,3710,7.3,4.5,,
+P037,Ceiling Fan,Home Appliances,2026-02-12,Croma,3710.0,3850,14.3,4.5,140.0,3.77
+P037,Ceiling Fan,Home Appliances,2026-03-11,Croma,3850.0,3680,14.1,4.5,-170.0,-4.42
+P037,Ceiling Fan,Home Appliances,2026-05-06,Croma,3680.0,3390,11.0,4.5,-290.0,-7.88
+P037,Ceiling Fan,Home Appliances,2026-06-18,Croma,3390.0,3180,14.9,4.5,-210.0,-6.19
+P037,Ceiling Fan,Home Appliances,2026-01-24,Flipkart,,3540,5.7,4.5,,
+P037,Ceiling Fan,Home Appliances,2026-02-22,Flipkart,3540.0,3700,0.0,4.5,160.0,4.52
+P037,Ceiling Fan,Home Appliances,2026-04-04,Flipkart,3700.0,3660,16.5,4.5,-40.0,-1.08
+P037,Ceiling Fan,Home Appliances,2026-06-18,Flipkart,3660.0,3770,13.2,4.5,110.0,3.01
+P038,Ceiling Fan Pro,Home Appliances,2026-01-25,Amazon,,4660,15.4,4.0,,
+P038,Ceiling Fan Pro,Home Appliances,2026-03-11,Amazon,4660.0,4680,7.5,4.0,20.0,0.43
+P038,Ceiling Fan Pro,Home Appliances,2026-06-05,Amazon,4680.0,4770,4.9,4.0,90.0,1.92
+P038,Ceiling Fan Pro,Home Appliances,2026-01-20,Croma,,4850,18.0,4.0,,
+P038,Ceiling Fan Pro,Home Appliances,2026-06-23,Croma,4850.0,4780,3.6,4.0,-70.0,-1.44
+P038,Ceiling Fan Pro,Home Appliances,2026-01-15,Flipkart,,4600,9.4,4.0,,
+P038,Ceiling Fan Pro,Home Appliances,2026-03-04,Flipkart,4600.0,4240,10.8,4.0,-360.0,-7.83
+P038,Ceiling Fan Pro,Home Appliances,2026-06-19,Flipkart,4240.0,4270,29.9,4.0,30.0,0.71
+P039,Induction Cooktop,Home Appliances,2026-01-03,Amazon,,3100,14.4,3.4,,
+P039,Induction Cooktop,Home Appliances,2026-04-24,Amazon,3100.0,3310,21.6,3.4,210.0,6.77
+P039,Induction Cooktop,Home Appliances,2026-06-15,Amazon,3310.0,3260,14.9,3.4,-50.0,-1.51
+P039,Induction Cooktop,Home Appliances,2026-01-08,Croma,,3250,18.8,3.4,,
+P039,Induction Cooktop,Home Appliances,2026-04-15,Croma,3250.0,2940,8.6,3.4,-310.0,-9.54
+P039,Induction Cooktop,Home Appliances,2026-06-24,Croma,2940.0,2820,12.2,3.4,-120.0,-4.08
+P039,Induction Cooktop,Home Appliances,2026-01-16,Flipkart,,3090,9.2,3.4,,
+P039,Induction Cooktop,Home Appliances,2026-05-23,Flipkart,3090.0,3080,21.8,3.4,-10.0,-0.32
+P039,Induction Cooktop,Home Appliances,2026-06-16,Flipkart,3080.0,2910,14.5,3.4,-170.0,-5.52
+P040,Induction Cooktop Pro,Home Appliances,2026-01-17,Amazon,,3340,0.0,3.4,,
+P040,Induction Cooktop Pro,Home Appliances,2026-05-04,Amazon,3340.0,3530,27.0,3.4,190.0,5.69
+P040,Induction Cooktop Pro,Home Appliances,2026-06-25,Amazon,3530.0,3540,16.6,3.4,10.0,0.28
+P040,Induction Cooktop Pro,Home Appliances,2026-01-16,Croma,,3480,10.1,3.4,,
+P040,Induction Cooktop Pro,Home Appliances,2026-06-02,Croma,3480.0,3560,0.3,3.4,80.0,2.3
+P040,Induction Cooktop Pro,Home Appliances,2026-01-16,Flipkart,,3330,3.3,3.4,,
+P040,Induction Cooktop Pro,Home Appliances,2026-02-16,Flipkart,3330.0,3380,0.0,3.4,50.0,1.5
+P040,Induction Cooktop Pro,Home Appliances,2026-05-06,Flipkart,3380.0,3420,6.1,3.4,40.0,1.18
+P040,Induction Cooktop Pro,Home Appliances,2026-06-14,Flipkart,3420.0,3370,3.9,3.4,-50.0,-1.46
+P041,Running Shoes,Fashion,2026-01-07,Amazon,,3790,1.2,4.0,,
+P041,Running Shoes,Fashion,2026-02-18,Amazon,3790.0,3540,2.4,4.0,-250.0,-6.6
+P041,Running Shoes,Fashion,2026-03-08,Amazon,3540.0,3640,8.4,4.0,100.0,2.82
+P041,Running Shoes,Fashion,2026-06-06,Amazon,3640.0,3470,19.5,4.0,-170.0,-4.67
+P041,Running Shoes,Fashion,2026-01-14,Croma,,3860,21.6,4.0,,
+P041,Running Shoes,Fashion,2026-04-10,Croma,3860.0,4040,0.0,4.0,180.0,4.66
+P041,Running Shoes,Fashion,2026-05-23,Croma,4040.0,3760,11.6,4.0,-280.0,-6.93
+P041,Running Shoes,Fashion,2026-06-24,Croma,3760.0,3820,19.8,4.0,60.0,1.6
+P041,Running Shoes,Fashion,2026-01-11,Flipkart,,3660,3.2,4.0,,
+P041,Running Shoes,Fashion,2026-02-19,Flipkart,3660.0,3590,5.2,4.0,-70.0,-1.91
+P041,Running Shoes,Fashion,2026-05-05,Flipkart,3590.0,3720,11.3,4.0,130.0,3.62
+P041,Running Shoes,Fashion,2026-06-20,Flipkart,3720.0,3780,22.0,4.0,60.0,1.61
+P042,Running Shoes Pro,Fashion,2026-01-20,Amazon,,5020,16.3,4.2,,
+P042,Running Shoes Pro,Fashion,2026-02-14,Amazon,5020.0,4900,6.7,4.2,-120.0,-2.39
+P042,Running Shoes Pro,Fashion,2026-05-07,Amazon,4900.0,5180,14.1,4.2,280.0,5.71
+P042,Running Shoes Pro,Fashion,2026-06-25,Amazon,5180.0,5100,17.6,4.2,-80.0,-1.54
+P042,Running Shoes Pro,Fashion,2026-01-25,Croma,,5230,9.3,4.2,,
+P042,Running Shoes Pro,Fashion,2026-06-21,Croma,5230.0,5050,10.6,4.2,-180.0,-3.44
+P042,Running Shoes Pro,Fashion,2026-01-16,Flipkart,,4930,11.4,4.2,,
+P042,Running Shoes Pro,Fashion,2026-06-15,Flipkart,4930.0,5070,21.0,4.2,140.0,2.84
+P043,Casual Shoes,Fashion,2026-01-22,Amazon,,1220,15.1,4.3,,
+P043,Casual Shoes,Fashion,2026-03-05,Amazon,1220.0,1200,14.2,4.3,-20.0,-1.64
+P043,Casual Shoes,Fashion,2026-04-18,Amazon,1200.0,1220,18.6,4.3,20.0,1.67
+P043,Casual Shoes,Fashion,2026-05-21,Amazon,1220.0,1160,0.0,4.3,-60.0,-4.92
+P043,Casual Shoes,Fashion,2026-06-19,Amazon,1160.0,1200,7.5,4.3,40.0,3.45
+P043,Casual Shoes,Fashion,2026-01-22,Croma,,1240,10.6,4.3,,
+P043,Casual Shoes,Fashion,2026-02-02,Croma,1240.0,1230,0.0,4.3,-10.0,-0.81
+P043,Casual Shoes,Fashion,2026-04-17,Croma,1230.0,1250,21.3,4.3,20.0,1.63
+P043,Casual Shoes,Fashion,2026-06-17,Croma,1250.0,1210,22.0,4.3,-40.0,-3.2
+P043,Casual Shoes,Fashion,2026-01-11,Flipkart,,1190,14.4,4.3,,
+P043,Casual Shoes,Fashion,2026-03-24,Flipkart,1190.0,1200,1.8,4.3,10.0,0.84
+P043,Casual Shoes,Fashion,2026-04-05,Flipkart,1200.0,1190,0.7,4.3,-10.0,-0.83
+P043,Casual Shoes,Fashion,2026-06-09,Flipkart,1190.0,1290,12.0,4.3,100.0,8.4
+P044,Casual Shoes Pro,Fashion,2026-01-06,Amazon,,3980,19.2,4.1,,
+P044,Casual Shoes Pro,Fashion,2026-05-17,Amazon,3980.0,3900,12.0,4.1,-80.0,-2.01
+P044,Casual Shoes Pro,Fashion,2026-06-18,Amazon,3900.0,3720,20.2,4.1,-180.0,-4.62
+P044,Casual Shoes Pro,Fashion,2026-01-17,Croma,,4110,10.2,4.1,,
+P044,Casual Shoes Pro,Fashion,2026-06-01,Croma,4110.0,4610,17.7,4.1,500.0,12.17
+P044,Casual Shoes Pro,Fashion,2026-01-13,Flipkart,,3900,14.9,4.1,,
+P044,Casual Shoes Pro,Fashion,2026-05-08,Flipkart,3900.0,3770,19.1,4.1,-130.0,-3.33
+P044,Casual Shoes Pro,Fashion,2026-06-15,Flipkart,3770.0,3780,6.6,4.1,10.0,0.27
+P045,Backpack,Fashion,2026-01-15,Amazon,,900,5.0,3.7,,
+P045,Backpack,Fashion,2026-02-11,Amazon,900.0,890,20.3,3.7,-10.0,-1.11
+P045,Backpack,Fashion,2026-06-13,Amazon,890.0,860,10.9,3.7,-30.0,-3.37
+P045,Backpack,Fashion,2026-01-13,Croma,,920,7.3,3.7,,
+P045,Backpack,Fashion,2026-02-11,Croma,920.0,930,10.5,3.7,10.0,1.09
+P045,Backpack,Fashion,2026-04-04,Croma,930.0,910,0.0,3.7,-20.0,-2.15
+P045,Backpack,Fashion,2026-06-07,Croma,910.0,920,20.6,3.7,10.0,1.1
+P045,Backpack,Fashion,2026-01-11,Flipkart,,880,17.2,3.7,,
+P045,Backpack,Fashion,2026-02-23,Flipkart,880.0,880,0.6,3.7,0.0,0.0
+P045,Backpack,Fashion,2026-04-07,Flipkart,880.0,890,9.4,3.7,10.0,1.14
+P045,Backpack,Fashion,2026-06-02,Flipkart,890.0,950,7.9,3.7,60.0,6.74
+P046,Backpack Pro,Fashion,2026-01-02,Amazon,,2530,16.0,3.3,,
+P046,Backpack Pro,Fashion,2026-04-09,Amazon,2530.0,2360,0.0,3.3,-170.0,-6.72
+P046,Backpack Pro,Fashion,2026-05-08,Amazon,2360.0,2510,11.6,3.3,150.0,6.36
+P046,Backpack Pro,Fashion,2026-06-24,Amazon,2510.0,2430,24.9,3.3,-80.0,-3.19
+P046,Backpack Pro,Fashion,2026-01-09,Croma,,2590,16.6,3.3,,
+P046,Backpack Pro,Fashion,2026-03-20,Croma,2590.0,2550,19.5,3.3,-40.0,-1.54
+P046,Backpack Pro,Fashion,2026-05-09,Croma,2550.0,2520,12.6,3.3,-30.0,-1.18
+P046,Backpack Pro,Fashion,2026-06-22,Croma,2520.0,2580,7.2,3.3,60.0,2.38
+P046,Backpack Pro,Fashion,2026-01-05,Flipkart,,2470,28.9,3.3,,
+P046,Backpack Pro,Fashion,2026-02-19,Flipkart,2470.0,2340,0.0,3.3,-130.0,-5.26
+P046,Backpack Pro,Fashion,2026-03-14,Flipkart,2340.0,2410,6.7,3.3,70.0,2.99
+P046,Backpack Pro,Fashion,2026-06-14,Flipkart,2410.0,2570,11.4,3.3,160.0,6.64
+P047,Wrist Watch,Fashion,2026-01-22,Amazon,,3610,7.6,3.6,,
+P047,Wrist Watch,Fashion,2026-03-07,Amazon,3610.0,3480,16.3,3.6,-130.0,-3.6
+P047,Wrist Watch,Fashion,2026-06-21,Amazon,3480.0,3410,6.3,3.6,-70.0,-2.01
+P047,Wrist Watch,Fashion,2026-01-02,Croma,,3770,5.0,3.6,,
+P047,Wrist Watch,Fashion,2026-04-17,Croma,3770.0,3830,11.2,3.6,60.0,1.59
+P047,Wrist Watch,Fashion,2026-06-19,Croma,3830.0,4030,25.7,3.6,200.0,5.22
+P047,Wrist Watch,Fashion,2026-01-19,Flipkart,,3530,0.0,3.6,,
+P047,Wrist Watch,Fashion,2026-05-09,Flipkart,3530.0,3970,28.4,3.6,440.0,12.46
+P047,Wrist Watch,Fashion,2026-06-11,Flipkart,3970.0,3940,7.0,3.6,-30.0,-0.76
+P048,Wrist Watch Pro,Fashion,2026-01-19,Amazon,,4420,0.0,3.9,,
+P048,Wrist Watch Pro,Fashion,2026-02-01,Amazon,4420.0,4440,17.9,3.9,20.0,0.45
+P048,Wrist Watch Pro,Fashion,2026-03-12,Amazon,4440.0,4320,6.0,3.9,-120.0,-2.7
+P048,Wrist Watch Pro,Fashion,2026-04-08,Amazon,4320.0,4350,20.9,3.9,30.0,0.69
+P048,Wrist Watch Pro,Fashion,2026-06-08,Amazon,4350.0,4290,7.0,3.9,-60.0,-1.38
+P048,Wrist Watch Pro,Fashion,2026-01-24,Croma,,4510,24.1,3.9,,
+P048,Wrist Watch Pro,Fashion,2026-06-01,Croma,4510.0,4730,13.1,3.9,220.0,4.88
+P048,Wrist Watch Pro,Fashion,2026-01-18,Flipkart,,4230,5.9,3.9,,
+P048,Wrist Watch Pro,Fashion,2026-06-09,Flipkart,4230.0,3790,19.4,3.9,-440.0,-10.4
+P049,Sunglasses,Fashion,2026-01-12,Amazon,,3470,17.6,3.6,,
+P049,Sunglasses,Fashion,2026-06-11,Amazon,3470.0,3310,6.8,3.6,-160.0,-4.61
+P049,Sunglasses,Fashion,2026-01-09,Croma,,3630,13.1,3.6,,
+P049,Sunglasses,Fashion,2026-02-16,Croma,3630.0,3640,9.4,3.6,10.0,0.28
+P049,Sunglasses,Fashion,2026-06-19,Croma,3640.0,3490,14.3,3.6,-150.0,-4.12
+P049,Sunglasses,Fashion,2026-01-19,Flipkart,,3400,21.1,3.6,,
+P049,Sunglasses,Fashion,2026-02-04,Flipkart,3400.0,3480,13.6,3.6,80.0,2.35
+P049,Sunglasses,Fashion,2026-03-20,Flipkart,3480.0,3520,13.0,3.6,40.0,1.15
+P049,Sunglasses,Fashion,2026-05-17,Flipkart,3520.0,3380,11.4,3.6,-140.0,-3.98
+P049,Sunglasses,Fashion,2026-06-03,Flipkart,3380.0,3470,6.7,3.6,90.0,2.66
+P050,Sunglasses Pro,Fashion,2026-01-12,Amazon,,3020,6.7,3.3,,
+P050,Sunglasses Pro,Fashion,2026-02-03,Amazon,3020.0,3040,15.0,3.3,20.0,0.66
+P050,Sunglasses Pro,Fashion,2026-06-19,Amazon,3040.0,3150,21.2,3.3,110.0,3.62
+P050,Sunglasses Pro,Fashion,2026-01-13,Croma,,3170,0.0,3.3,,
+P050,Sunglasses Pro,Fashion,2026-06-20,Croma,3170.0,3680,19.7,3.3,510.0,16.09
+P050,Sunglasses Pro,Fashion,2026-01-09,Flipkart,,3030,16.7,3.3,,
+P050,Sunglasses Pro,Fashion,2026-04-23,Flipkart,3030.0,2910,0.0,3.3,-120.0,-3.96
+P050,Sunglasses Pro,Fashion,2026-05-21,Flipkart,2910.0,2920,21.5,3.3,10.0,0.34
+P050,Sunglasses Pro,Fashion,2026-06-21,Flipkart,2920.0,2930,17.9,3.3,10.0,0.34
+P051,Jeans,Fashion,2026-01-24,Amazon,,2650,20.2,3.7,,
+P051,Jeans,Fashion,2026-03-24,Amazon,2650.0,2640,4.5,3.7,-10.0,-0.38
+P051,Jeans,Fashion,2026-06-22,Amazon,2640.0,2800,7.3,3.7,160.0,6.06
+P051,Jeans,Fashion,2026-01-15,Croma,,2750,19.4,3.7,,
+P051,Jeans,Fashion,2026-02-08,Croma,2750.0,2840,8.2,3.7,90.0,3.27
+P051,Jeans,Fashion,2026-06-23,Croma,2840.0,3030,15.8,3.7,190.0,6.69
+P051,Jeans,Fashion,2026-01-04,Flipkart,,2640,10.4,3.7,,
+P051,Jeans,Fashion,2026-04-24,Flipkart,2640.0,2730,26.1,3.7,90.0,3.41
+P051,Jeans,Fashion,2026-05-18,Flipkart,2730.0,2680,3.8,3.7,-50.0,-1.83
+P051,Jeans,Fashion,2026-06-06,Flipkart,2680.0,2730,16.6,3.7,50.0,1.87
+P052,Jeans Pro,Fashion,2026-01-25,Amazon,,1350,6.4,4.3,,
+P052,Jeans Pro,Fashion,2026-06-16,Amazon,1350.0,1370,4.1,4.3,20.0,1.48
+P052,Jeans Pro,Fashion,2026-01-10,Croma,,1400,18.8,4.3,,
+P052,Jeans Pro,Fashion,2026-04-04,Croma,1400.0,1400,0.7,4.3,0.0,0.0
+P052,Jeans Pro,Fashion,2026-06-04,Croma,1400.0,1380,15.6,4.3,-20.0,-1.43
+P052,Jeans Pro,Fashion,2026-01-03,Flipkart,,1310,12.6,4.3,,
+P052,Jeans Pro,Fashion,2026-03-03,Flipkart,1310.0,1310,7.9,4.3,0.0,0.0
+P052,Jeans Pro,Fashion,2026-04-18,Flipkart,1310.0,1280,2.2,4.3,-30.0,-2.29
+P052,Jeans Pro,Fashion,2026-06-05,Flipkart,1280.0,1340,15.4,4.3,60.0,4.69
+P053,T-Shirt,Fashion,2026-01-06,Amazon,,440,15.0,4.5,,
+P053,T-Shirt,Fashion,2026-03-13,Amazon,440.0,430,16.8,4.5,-10.0,-2.27
+P053,T-Shirt,Fashion,2026-06-25,Amazon,430.0,430,11.5,4.5,0.0,0.0
+P053,T-Shirt,Fashion,2026-01-23,Croma,,460,8.2,4.5,,
+P053,T-Shirt,Fashion,2026-04-25,Croma,460.0,450,20.2,4.5,-10.0,-2.17
+P053,T-Shirt,Fashion,2026-06-18,Croma,450.0,460,15.1,4.5,10.0,2.22
+P053,T-Shirt,Fashion,2026-01-14,Flipkart,,440,25.0,4.5,,
+P053,T-Shirt,Fashion,2026-03-22,Flipkart,440.0,480,31.9,4.5,40.0,9.09
+P053,T-Shirt,Fashion,2026-06-15,Flipkart,480.0,490,1.4,4.5,10.0,2.08
+P054,T-Shirt Pro,Fashion,2026-01-23,Amazon,,980,10.5,4.3,,
+P054,T-Shirt Pro,Fashion,2026-06-04,Amazon,980.0,1040,14.3,4.3,60.0,6.12
+P054,T-Shirt Pro,Fashion,2026-01-03,Croma,,990,24.2,4.3,,
+P054,T-Shirt Pro,Fashion,2026-05-21,Croma,990.0,870,19.5,4.3,-120.0,-12.12
+P054,T-Shirt Pro,Fashion,2026-06-19,Croma,870.0,930,11.9,4.3,60.0,6.9
+P054,T-Shirt Pro,Fashion,2026-01-18,Flipkart,,940,6.5,4.3,,
+P054,T-Shirt Pro,Fashion,2026-02-11,Flipkart,940.0,970,18.2,4.3,30.0,3.19
+P054,T-Shirt Pro,Fashion,2026-06-25,Flipkart,970.0,1020,8.9,4.3,50.0,5.15
+P055,Handbag,Fashion,2026-01-03,Amazon,,2850,12.4,4.6,,
+P055,Handbag,Fashion,2026-04-19,Amazon,2850.0,2940,15.1,4.6,90.0,3.16
+P055,Handbag,Fashion,2026-06-20,Amazon,2940.0,2940,18.2,4.6,0.0,0.0
+P055,Handbag,Fashion,2026-01-21,Croma,,2980,0.0,4.6,,
+P055,Handbag,Fashion,2026-04-03,Croma,2980.0,3040,23.0,4.6,60.0,2.01
+P055,Handbag,Fashion,2026-05-05,Croma,3040.0,3200,16.8,4.6,160.0,5.26
+P055,Handbag,Fashion,2026-06-12,Croma,3200.0,3130,26.5,4.6,-70.0,-2.19
+P055,Handbag,Fashion,2026-01-21,Flipkart,,2840,14.5,4.6,,
+P055,Handbag,Fashion,2026-02-16,Flipkart,2840.0,2660,6.8,4.6,-180.0,-6.34
+P055,Handbag,Fashion,2026-04-13,Flipkart,2660.0,2700,16.2,4.6,40.0,1.5
+P055,Handbag,Fashion,2026-06-20,Flipkart,2700.0,2770,15.1,4.6,70.0,2.59
+P056,Handbag Pro,Fashion,2026-01-18,Amazon,,2860,4.0,3.5,,
+P056,Handbag Pro,Fashion,2026-02-16,Amazon,2860.0,2950,20.1,3.5,90.0,3.15
+P056,Handbag Pro,Fashion,2026-04-07,Amazon,2950.0,2940,15.4,3.5,-10.0,-0.34
+P056,Handbag Pro,Fashion,2026-05-03,Amazon,2940.0,2930,5.6,3.5,-10.0,-0.34
+P056,Handbag Pro,Fashion,2026-06-23,Amazon,2930.0,3010,18.9,3.5,80.0,2.73
+P056,Handbag Pro,Fashion,2026-01-06,Croma,,2960,16.2,3.5,,
+P056,Handbag Pro,Fashion,2026-06-08,Croma,2960.0,3090,18.9,3.5,130.0,4.39
+P056,Handbag Pro,Fashion,2026-01-07,Flipkart,,2760,0.0,3.5,,
+P056,Handbag Pro,Fashion,2026-05-25,Flipkart,2760.0,2910,21.2,3.5,150.0,5.43
+P056,Handbag Pro,Fashion,2026-06-17,Flipkart,2910.0,2950,1.3,3.5,40.0,1.37
+P057,Jacket,Fashion,2026-01-25,Amazon,,2880,16.5,3.4,,
+P057,Jacket,Fashion,2026-04-25,Amazon,2880.0,2760,27.4,3.4,-120.0,-4.17
+P057,Jacket,Fashion,2026-06-02,Amazon,2760.0,2490,9.2,3.4,-270.0,-9.78
+P057,Jacket,Fashion,2026-01-22,Croma,,2920,30.2,3.4,,
+P057,Jacket,Fashion,2026-02-06,Croma,2920.0,2950,5.8,3.4,30.0,1.03
+P057,Jacket,Fashion,2026-06-14,Croma,2950.0,3010,15.3,3.4,60.0,2.03
+P057,Jacket,Fashion,2026-01-14,Flipkart,,2750,7.2,3.4,,
+P057,Jacket,Fashion,2026-03-15,Flipkart,2750.0,2900,9.8,3.4,150.0,5.45
+P057,Jacket,Fashion,2026-06-20,Flipkart,2900.0,3240,2.5,3.4,340.0,11.72
+P058,Jacket Pro,Fashion,2026-01-07,Amazon,,1130,8.7,4.4,,
+P058,Jacket Pro,Fashion,2026-02-14,Amazon,1130.0,1180,9.8,4.4,50.0,4.42
+P058,Jacket Pro,Fashion,2026-04-11,Amazon,1180.0,1090,15.5,4.4,-90.0,-7.63
+P058,Jacket Pro,Fashion,2026-06-03,Amazon,1090.0,1150,8.9,4.4,60.0,5.5
+P058,Jacket Pro,Fashion,2026-01-18,Croma,,1150,9.8,4.4,,
+P058,Jacket Pro,Fashion,2026-05-25,Croma,1150.0,1360,18.2,4.4,210.0,18.26
+P058,Jacket Pro,Fashion,2026-06-03,Croma,1360.0,1390,21.1,4.4,30.0,2.21
+P058,Jacket Pro,Fashion,2026-01-12,Flipkart,,1100,19.4,4.4,,
+P058,Jacket Pro,Fashion,2026-02-25,Flipkart,1100.0,1080,5.8,4.4,-20.0,-1.82
+P058,Jacket Pro,Fashion,2026-06-17,Flipkart,1080.0,1030,0.6,4.4,-50.0,-4.63
+P059,Wallet,Fashion,2026-01-14,Amazon,,1340,20.9,3.5,,
+P059,Wallet,Fashion,2026-02-04,Amazon,1340.0,1220,8.0,3.5,-120.0,-8.96
+P059,Wallet,Fashion,2026-03-12,Amazon,1220.0,1180,22.2,3.5,-40.0,-3.28
+P059,Wallet,Fashion,2026-06-21,Amazon,1180.0,1430,21.3,3.5,250.0,21.19
+P059,Wallet,Fashion,2026-01-23,Croma,,1360,25.0,3.5,,
+P059,Wallet,Fashion,2026-06-07,Croma,1360.0,1470,16.6,3.5,110.0,8.09
+P059,Wallet,Fashion,2026-01-07,Flipkart,,1320,21.5,3.5,,
+P059,Wallet,Fashion,2026-04-01,Flipkart,1320.0,1530,12.2,3.5,210.0,15.91
+P059,Wallet,Fashion,2026-06-12,Flipkart,1530.0,1630,16.6,3.5,100.0,6.54
+P060,Wallet Pro,Fashion,2026-01-01,Amazon,,960,11.2,4.1,,
+P060,Wallet Pro,Fashion,2026-03-09,Amazon,960.0,970,16.7,4.1,10.0,1.04
+P060,Wallet Pro,Fashion,2026-05-23,Amazon,970.0,1050,13.4,4.1,80.0,8.25
+P060,Wallet Pro,Fashion,2026-06-01,Amazon,1050.0,1010,6.5,4.1,-40.0,-3.81
+P060,Wallet Pro,Fashion,2026-01-10,Croma,,1000,24.2,4.1,,
+P060,Wallet Pro,Fashion,2026-05-14,Croma,1000.0,1010,13.4,4.1,10.0,1.0
+P060,Wallet Pro,Fashion,2026-06-11,Croma,1010.0,1060,10.4,4.1,50.0,4.95
+P060,Wallet Pro,Fashion,2026-01-02,Flipkart,,950,0.0,4.1,,
+P060,Wallet Pro,Fashion,2026-02-16,Flipkart,950.0,910,17.6,4.1,-40.0,-4.21
+P060,Wallet Pro,Fashion,2026-05-19,Flipkart,910.0,900,7.1,4.1,-10.0,-1.1
+P060,Wallet Pro,Fashion,2026-06-10,Flipkart,900.0,950,15.4,4.1,50.0,5.56
+P061,Face Wash,Beauty & Personal Care,2026-01-09,Amazon,,560,8.1,4.4,,
+P061,Face Wash,Beauty & Personal Care,2026-02-17,Amazon,560.0,550,13.4,4.4,-10.0,-1.79
+P061,Face Wash,Beauty & Personal Care,2026-03-07,Amazon,550.0,540,0.0,4.4,-10.0,-1.82
+P061,Face Wash,Beauty & Personal Care,2026-06-09,Amazon,540.0,470,19.4,4.4,-70.0,-12.96
+P061,Face Wash,Beauty & Personal Care,2026-01-08,Croma,,580,1.6,4.4,,
+P061,Face Wash,Beauty & Personal Care,2026-04-01,Croma,580.0,550,1.3,4.4,-30.0,-5.17
+P061,Face Wash,Beauty & Personal Care,2026-06-18,Croma,550.0,530,16.0,4.4,-20.0,-3.64
+P061,Face Wash,Beauty & Personal Care,2026-01-20,Flipkart,,550,4.0,4.4,,
+P061,Face Wash,Beauty & Personal Care,2026-04-21,Flipkart,550.0,540,0.6,4.4,-10.0,-1.82
+P061,Face Wash,Beauty & Personal Care,2026-06-24,Flipkart,540.0,540,15.3,4.4,0.0,0.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-01-14,Amazon,,190,11.5,4.0,,
+P062,Face Wash Pro,Beauty & Personal Care,2026-02-18,Amazon,190.0,180,1.2,4.0,-10.0,-5.26
+P062,Face Wash Pro,Beauty & Personal Care,2026-04-16,Amazon,180.0,200,18.2,4.0,20.0,11.11
+P062,Face Wash Pro,Beauty & Personal Care,2026-05-06,Amazon,200.0,200,19.0,4.0,0.0,0.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-06-04,Amazon,200.0,200,7.7,4.0,0.0,0.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-01-13,Croma,,200,14.9,4.0,,
+P062,Face Wash Pro,Beauty & Personal Care,2026-03-21,Croma,200.0,200,3.4,4.0,0.0,0.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-05-06,Croma,200.0,220,1.0,4.0,20.0,10.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-06-16,Croma,220.0,220,17.7,4.0,0.0,0.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-01-22,Flipkart,,190,16.0,4.0,,
+P062,Face Wash Pro,Beauty & Personal Care,2026-05-23,Flipkart,190.0,190,14.8,4.0,0.0,0.0
+P062,Face Wash Pro,Beauty & Personal Care,2026-06-07,Flipkart,190.0,190,17.2,4.0,0.0,0.0
+P063,Moisturizer,Beauty & Personal Care,2026-01-24,Amazon,,350,14.5,3.7,,
+P063,Moisturizer,Beauty & Personal Care,2026-06-15,Amazon,350.0,310,9.9,3.7,-40.0,-11.43
+P063,Moisturizer,Beauty & Personal Care,2026-01-23,Croma,,360,14.8,3.7,,
+P063,Moisturizer,Beauty & Personal Care,2026-02-24,Croma,360.0,360,27.7,3.7,0.0,0.0
+P063,Moisturizer,Beauty & Personal Care,2026-06-17,Croma,360.0,340,19.6,3.7,-20.0,-5.56
+P063,Moisturizer,Beauty & Personal Care,2026-01-02,Flipkart,,340,19.6,3.7,,
+P063,Moisturizer,Beauty & Personal Care,2026-05-06,Flipkart,340.0,330,9.9,3.7,-10.0,-2.94
+P063,Moisturizer,Beauty & Personal Care,2026-06-02,Flipkart,330.0,340,0.4,3.7,10.0,3.03
+P064,Moisturizer Pro,Beauty & Personal Care,2026-01-04,Amazon,,570,3.7,4.3,,
+P064,Moisturizer Pro,Beauty & Personal Care,2026-02-02,Amazon,570.0,530,14.3,4.3,-40.0,-7.02
+P064,Moisturizer Pro,Beauty & Personal Care,2026-06-24,Amazon,530.0,500,6.9,4.3,-30.0,-5.66
+P064,Moisturizer Pro,Beauty & Personal Care,2026-01-19,Croma,,580,16.3,4.3,,
+P064,Moisturizer Pro,Beauty & Personal Care,2026-03-23,Croma,580.0,590,8.4,4.3,10.0,1.72
+P064,Moisturizer Pro,Beauty & Personal Care,2026-06-20,Croma,590.0,590,10.9,4.3,0.0,0.0
+P064,Moisturizer Pro,Beauty & Personal Care,2026-01-15,Flipkart,,560,14.7,4.3,,
+P064,Moisturizer Pro,Beauty & Personal Care,2026-03-03,Flipkart,560.0,530,12.3,4.3,-30.0,-5.36
+P064,Moisturizer Pro,Beauty & Personal Care,2026-04-24,Flipkart,530.0,580,0.0,4.3,50.0,9.43
+P064,Moisturizer Pro,Beauty & Personal Care,2026-06-22,Flipkart,580.0,570,12.3,4.3,-10.0,-1.72
+P065,Sunscreen,Beauty & Personal Care,2026-01-10,Amazon,,680,7.0,3.3,,
+P065,Sunscreen,Beauty & Personal Care,2026-05-14,Amazon,680.0,650,21.7,3.3,-30.0,-4.41
+P065,Sunscreen,Beauty & Personal Care,2026-06-09,Amazon,650.0,640,13.7,3.3,-10.0,-1.54
+P065,Sunscreen,Beauty & Personal Care,2026-01-14,Croma,,700,5.2,3.3,,
+P065,Sunscreen,Beauty & Personal Care,2026-03-12,Croma,700.0,700,26.5,3.3,0.0,0.0
+P065,Sunscreen,Beauty & Personal Care,2026-04-17,Croma,700.0,700,13.9,3.3,0.0,0.0
+P065,Sunscreen,Beauty & Personal Care,2026-05-10,Croma,700.0,690,17.7,3.3,-10.0,-1.43
+P065,Sunscreen,Beauty & Personal Care,2026-06-19,Croma,690.0,710,20.1,3.3,20.0,2.9
+P065,Sunscreen,Beauty & Personal Care,2026-01-18,Flipkart,,670,19.2,3.3,,
+P065,Sunscreen,Beauty & Personal Care,2026-03-10,Flipkart,670.0,650,11.0,3.3,-20.0,-2.99
+P065,Sunscreen,Beauty & Personal Care,2026-06-06,Flipkart,650.0,660,12.1,3.3,10.0,1.54
+P066,Sunscreen Pro,Beauty & Personal Care,2026-01-01,Amazon,,490,11.4,3.4,,
+P066,Sunscreen Pro,Beauty & Personal Care,2026-02-24,Amazon,490.0,480,15.0,3.4,-10.0,-2.04
+P066,Sunscreen Pro,Beauty & Personal Care,2026-04-11,Amazon,480.0,470,0.0,3.4,-10.0,-2.08
+P066,Sunscreen Pro,Beauty & Personal Care,2026-06-15,Amazon,470.0,480,36.8,3.4,10.0,2.13
+P066,Sunscreen Pro,Beauty & Personal Care,2026-01-11,Croma,,500,28.8,3.4,,
+P066,Sunscreen Pro,Beauty & Personal Care,2026-02-22,Croma,500.0,490,0.0,3.4,-10.0,-2.0
+P066,Sunscreen Pro,Beauty & Personal Care,2026-03-20,Croma,490.0,480,22.1,3.4,-10.0,-2.04
+P066,Sunscreen Pro,Beauty & Personal Care,2026-06-11,Croma,480.0,500,0.4,3.4,20.0,4.17
+P066,Sunscreen Pro,Beauty & Personal Care,2026-01-23,Flipkart,,480,4.4,3.4,,
+P066,Sunscreen Pro,Beauty & Personal Care,2026-03-10,Flipkart,480.0,470,5.1,3.4,-10.0,-2.08
+P066,Sunscreen Pro,Beauty & Personal Care,2026-06-20,Flipkart,470.0,480,7.6,3.4,10.0,2.13
+P067,Shampoo,Beauty & Personal Care,2026-01-01,Amazon,,400,14.2,4.7,,
+P067,Shampoo,Beauty & Personal Care,2026-06-17,Amazon,400.0,420,32.5,4.7,20.0,5.0
+P067,Shampoo,Beauty & Personal Care,2026-01-24,Croma,,420,17.9,4.7,,
+P067,Shampoo,Beauty & Personal Care,2026-02-09,Croma,420.0,420,5.3,4.7,0.0,0.0
+P067,Shampoo,Beauty & Personal Care,2026-03-02,Croma,420.0,420,20.6,4.7,0.0,0.0
+P067,Shampoo,Beauty & Personal Care,2026-04-04,Croma,420.0,410,14.8,4.7,-10.0,-2.38
+P067,Shampoo,Beauty & Personal Care,2026-05-25,Croma,410.0,400,9.9,4.7,-10.0,-2.44
+P067,Shampoo,Beauty & Personal Care,2026-06-01,Croma,400.0,400,7.8,4.7,0.0,0.0
+P067,Shampoo,Beauty & Personal Care,2026-01-14,Flipkart,,390,10.0,4.7,,
+P067,Shampoo,Beauty & Personal Care,2026-05-22,Flipkart,390.0,350,5.2,4.7,-40.0,-10.26
+P067,Shampoo,Beauty & Personal Care,2026-06-23,Flipkart,350.0,340,5.6,4.7,-10.0,-2.86
+P068,Shampoo Pro,Beauty & Personal Care,2026-01-13,Amazon,,870,14.6,4.4,,
+P068,Shampoo Pro,Beauty & Personal Care,2026-06-17,Amazon,870.0,740,8.9,4.4,-130.0,-14.94
+P068,Shampoo Pro,Beauty & Personal Care,2026-01-05,Croma,,910,12.6,4.4,,
+P068,Shampoo Pro,Beauty & Personal Care,2026-03-12,Croma,910.0,860,4.0,4.4,-50.0,-5.49
+P068,Shampoo Pro,Beauty & Personal Care,2026-04-01,Croma,860.0,880,0.0,4.4,20.0,2.33
+P068,Shampoo Pro,Beauty & Personal Care,2026-06-24,Croma,880.0,870,3.9,4.4,-10.0,-1.14
+P068,Shampoo Pro,Beauty & Personal Care,2026-01-07,Flipkart,,840,27.3,4.4,,
+P068,Shampoo Pro,Beauty & Personal Care,2026-04-04,Flipkart,840.0,860,21.3,4.4,20.0,2.38
+P068,Shampoo Pro,Beauty & Personal Care,2026-06-12,Flipkart,860.0,870,1.9,4.4,10.0,1.16
+P069,Perfume,Beauty & Personal Care,2026-01-25,Amazon,,2580,9.9,4.8,,
+P069,Perfume,Beauty & Personal Care,2026-06-11,Amazon,2580.0,2460,13.6,4.8,-120.0,-4.65
+P069,Perfume,Beauty & Personal Care,2026-01-23,Croma,,2660,13.2,4.8,,
+P069,Perfume,Beauty & Personal Care,2026-06-13,Croma,2660.0,2570,23.7,4.8,-90.0,-3.38
+P069,Perfume,Beauty & Personal Care,2026-01-25,Flipkart,,2470,8.4,4.8,,
+P069,Perfume,Beauty & Personal Care,2026-03-05,Flipkart,2470.0,2520,18.4,4.8,50.0,2.02
+P069,Perfume,Beauty & Personal Care,2026-06-22,Flipkart,2520.0,2480,14.5,4.8,-40.0,-1.59
+P070,Perfume Pro,Beauty & Personal Care,2026-01-16,Amazon,,1710,7.5,4.5,,
+P070,Perfume Pro,Beauty & Personal Care,2026-05-17,Amazon,1710.0,1530,11.5,4.5,-180.0,-10.53
+P070,Perfume Pro,Beauty & Personal Care,2026-06-23,Amazon,1530.0,1520,5.9,4.5,-10.0,-0.65
+P070,Perfume Pro,Beauty & Personal Care,2026-01-12,Croma,,1760,18.0,4.5,,
+P070,Perfume Pro,Beauty & Personal Care,2026-05-15,Croma,1760.0,1620,16.9,4.5,-140.0,-7.95
+P070,Perfume Pro,Beauty & Personal Care,2026-06-12,Croma,1620.0,1620,13.7,4.5,0.0,0.0
+P070,Perfume Pro,Beauty & Personal Care,2026-01-10,Flipkart,,1680,34.4,4.5,,
+P070,Perfume Pro,Beauty & Personal Care,2026-04-07,Flipkart,1680.0,1620,13.3,4.5,-60.0,-3.57
+P070,Perfume Pro,Beauty & Personal Care,2026-06-09,Flipkart,1620.0,1730,19.8,4.5,110.0,6.79
+P071,Hair Dryer,Beauty & Personal Care,2026-01-11,Amazon,,1650,9.5,4.0,,
+P071,Hair Dryer,Beauty & Personal Care,2026-02-05,Amazon,1650.0,1710,0.0,4.0,60.0,3.64
+P071,Hair Dryer,Beauty & Personal Care,2026-03-11,Amazon,1710.0,1700,17.4,4.0,-10.0,-0.58
+P071,Hair Dryer,Beauty & Personal Care,2026-04-04,Amazon,1700.0,1750,20.4,4.0,50.0,2.94
+P071,Hair Dryer,Beauty & Personal Care,2026-06-23,Amazon,1750.0,1650,11.7,4.0,-100.0,-5.71
+P071,Hair Dryer,Beauty & Personal Care,2026-01-03,Croma,,1690,0.0,4.0,,
+P071,Hair Dryer,Beauty & Personal Care,2026-03-03,Croma,1690.0,1750,0.0,4.0,60.0,3.55
+P071,Hair Dryer,Beauty & Personal Care,2026-06-14,Croma,1750.0,1850,8.4,4.0,100.0,5.71
+P071,Hair Dryer,Beauty & Personal Care,2026-01-04,Flipkart,,1610,0.0,4.0,,
+P071,Hair Dryer,Beauty & Personal Care,2026-06-19,Flipkart,1610.0,1350,15.7,4.0,-260.0,-16.15
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-01-15,Amazon,,3050,10.9,3.7,,
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-04-01,Amazon,3050.0,3060,22.1,3.7,10.0,0.33
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-06-21,Amazon,3060.0,2940,19.1,3.7,-120.0,-3.92
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-01-19,Croma,,3170,12.6,3.7,,
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-06-01,Croma,3170.0,3150,9.4,3.7,-20.0,-0.63
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-01-15,Flipkart,,3020,16.7,3.7,,
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-02-16,Flipkart,3020.0,3070,12.7,3.7,50.0,1.66
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-04-03,Flipkart,3070.0,3120,20.8,3.7,50.0,1.63
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-05-13,Flipkart,3120.0,2960,7.3,3.7,-160.0,-5.13
+P072,Hair Dryer Pro,Beauty & Personal Care,2026-06-18,Flipkart,2960.0,2960,3.3,3.7,0.0,0.0
+P073,Electric Trimmer,Beauty & Personal Care,2026-01-23,Amazon,,920,18.6,4.7,,
+P073,Electric Trimmer,Beauty & Personal Care,2026-02-10,Amazon,920.0,950,5.3,4.7,30.0,3.26
+P073,Electric Trimmer,Beauty & Personal Care,2026-06-17,Amazon,950.0,850,3.2,4.7,-100.0,-10.53
+P073,Electric Trimmer,Beauty & Personal Care,2026-01-06,Croma,,960,9.9,4.7,,
+P073,Electric Trimmer,Beauty & Personal Care,2026-02-01,Croma,960.0,900,18.6,4.7,-60.0,-6.25
+P073,Electric Trimmer,Beauty & Personal Care,2026-06-09,Croma,900.0,910,3.3,4.7,10.0,1.11
+P073,Electric Trimmer,Beauty & Personal Care,2026-01-07,Flipkart,,890,11.1,4.7,,
+P073,Electric Trimmer,Beauty & Personal Care,2026-06-02,Flipkart,890.0,880,4.7,4.7,-10.0,-1.12
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-01-09,Amazon,,960,24.9,4.0,,
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-03-04,Amazon,960.0,910,12.0,4.0,-50.0,-5.21
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-04-06,Amazon,910.0,910,8.1,4.0,0.0,0.0
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-06-23,Amazon,910.0,940,18.4,4.0,30.0,3.3
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-01-15,Croma,,1010,23.8,4.0,,
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-02-17,Croma,1010.0,1000,16.2,4.0,-10.0,-0.99
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-06-02,Croma,1000.0,1010,9.5,4.0,10.0,1.0
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-01-09,Flipkart,,940,7.3,4.0,,
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-02-19,Flipkart,940.0,940,15.7,4.0,0.0,0.0
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-04-06,Flipkart,940.0,930,0.0,4.0,-10.0,-1.06
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-05-21,Flipkart,930.0,910,10.3,4.0,-20.0,-2.15
+P074,Electric Trimmer Pro,Beauty & Personal Care,2026-06-24,Flipkart,910.0,920,26.7,4.0,10.0,1.1
+P075,Face Serum,Beauty & Personal Care,2026-01-17,Amazon,,1340,19.1,3.7,,
+P075,Face Serum,Beauty & Personal Care,2026-06-07,Amazon,1340.0,1390,9.6,3.7,50.0,3.73
+P075,Face Serum,Beauty & Personal Care,2026-01-23,Croma,,1400,14.8,3.7,,
+P075,Face Serum,Beauty & Personal Care,2026-03-24,Croma,1400.0,1380,12.5,3.7,-20.0,-1.43
+P075,Face Serum,Beauty & Personal Care,2026-06-15,Croma,1380.0,1340,27.4,3.7,-40.0,-2.9
+P075,Face Serum,Beauty & Personal Care,2026-01-18,Flipkart,,1320,5.8,3.7,,
+P075,Face Serum,Beauty & Personal Care,2026-06-21,Flipkart,1320.0,1470,2.1,3.7,150.0,11.36
+P076,Face Serum Pro,Beauty & Personal Care,2026-01-21,Amazon,,560,8.3,4.2,,
+P076,Face Serum Pro,Beauty & Personal Care,2026-02-25,Amazon,560.0,590,3.4,4.2,30.0,5.36
+P076,Face Serum Pro,Beauty & Personal Care,2026-04-16,Amazon,590.0,620,14.0,4.2,30.0,5.08
+P076,Face Serum Pro,Beauty & Personal Care,2026-06-02,Amazon,620.0,590,7.7,4.2,-30.0,-4.84
+P076,Face Serum Pro,Beauty & Personal Care,2026-01-24,Croma,,580,27.1,4.2,,
+P076,Face Serum Pro,Beauty & Personal Care,2026-03-13,Croma,580.0,580,11.9,4.2,0.0,0.0
+P076,Face Serum Pro,Beauty & Personal Care,2026-06-17,Croma,580.0,550,8.6,4.2,-30.0,-5.17
+P076,Face Serum Pro,Beauty & Personal Care,2026-01-01,Flipkart,,550,10.1,4.2,,
+P076,Face Serum Pro,Beauty & Personal Care,2026-02-01,Flipkart,550.0,550,19.4,4.2,0.0,0.0
+P076,Face Serum Pro,Beauty & Personal Care,2026-04-23,Flipkart,550.0,570,2.9,4.2,20.0,3.64
+P076,Face Serum Pro,Beauty & Personal Care,2026-06-03,Flipkart,570.0,550,12.1,4.2,-20.0,-3.51
+P077,Body Lotion,Beauty & Personal Care,2026-01-25,Amazon,,500,11.2,4.7,,
+P077,Body Lotion,Beauty & Personal Care,2026-03-25,Amazon,500.0,550,21.3,4.7,50.0,10.0
+P077,Body Lotion,Beauty & Personal Care,2026-04-11,Amazon,550.0,550,10.9,4.7,0.0,0.0
+P077,Body Lotion,Beauty & Personal Care,2026-05-13,Amazon,550.0,560,2.3,4.7,10.0,1.82
+P077,Body Lotion,Beauty & Personal Care,2026-06-09,Amazon,560.0,560,5.0,4.7,0.0,0.0
+P077,Body Lotion,Beauty & Personal Care,2026-01-05,Croma,,520,17.0,4.7,,
+P077,Body Lotion,Beauty & Personal Care,2026-05-19,Croma,520.0,540,7.3,4.7,20.0,3.85
+P077,Body Lotion,Beauty & Personal Care,2026-06-25,Croma,540.0,540,29.1,4.7,0.0,0.0
+P077,Body Lotion,Beauty & Personal Care,2026-01-14,Flipkart,,490,0.9,4.7,,
+P077,Body Lotion,Beauty & Personal Care,2026-05-24,Flipkart,490.0,460,19.5,4.7,-30.0,-6.12
+P077,Body Lotion,Beauty & Personal Care,2026-06-03,Flipkart,460.0,470,5.2,4.7,10.0,2.17
+P078,Body Lotion Pro,Beauty & Personal Care,2026-01-09,Amazon,,270,13.6,4.5,,
+P078,Body Lotion Pro,Beauty & Personal Care,2026-03-02,Amazon,270.0,260,0.8,4.5,-10.0,-3.7
+P078,Body Lotion Pro,Beauty & Personal Care,2026-06-04,Amazon,260.0,230,12.9,4.5,-30.0,-11.54
+P078,Body Lotion Pro,Beauty & Personal Care,2026-01-12,Croma,,270,14.4,4.5,,
+P078,Body Lotion Pro,Beauty & Personal Care,2026-03-11,Croma,270.0,270,2.1,4.5,0.0,0.0
+P078,Body Lotion Pro,Beauty & Personal Care,2026-05-03,Croma,270.0,280,31.2,4.5,10.0,3.7
+P078,Body Lotion Pro,Beauty & Personal Care,2026-06-04,Croma,280.0,280,13.7,4.5,0.0,0.0
+P078,Body Lotion Pro,Beauty & Personal Care,2026-01-09,Flipkart,,260,27.6,4.5,,
+P078,Body Lotion Pro,Beauty & Personal Care,2026-02-06,Flipkart,260.0,250,23.1,4.5,-10.0,-3.85
+P078,Body Lotion Pro,Beauty & Personal Care,2026-05-08,Flipkart,250.0,240,18.1,4.5,-10.0,-4.0
+P078,Body Lotion Pro,Beauty & Personal Care,2026-06-21,Flipkart,240.0,240,26.8,4.5,0.0,0.0
+P079,Makeup Kit,Beauty & Personal Care,2026-01-09,Amazon,,1990,3.3,3.9,,
+P079,Makeup Kit,Beauty & Personal Care,2026-05-05,Amazon,1990.0,2360,3.1,3.9,370.0,18.59
+P079,Makeup Kit,Beauty & Personal Care,2026-06-15,Amazon,2360.0,2330,17.9,3.9,-30.0,-1.27
+P079,Makeup Kit,Beauty & Personal Care,2026-01-02,Croma,,2020,7.2,3.9,,
+P079,Makeup Kit,Beauty & Personal Care,2026-03-03,Croma,2020.0,2010,0.0,3.9,-10.0,-0.5
+P079,Makeup Kit,Beauty & Personal Care,2026-06-10,Croma,2010.0,2040,12.3,3.9,30.0,1.49
+P079,Makeup Kit,Beauty & Personal Care,2026-01-22,Flipkart,,1930,17.7,3.9,,
+P079,Makeup Kit,Beauty & Personal Care,2026-02-11,Flipkart,1930.0,1860,0.0,3.9,-70.0,-3.63
+P079,Makeup Kit,Beauty & Personal Care,2026-06-06,Flipkart,1860.0,1770,9.3,3.9,-90.0,-4.84
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-01-05,Amazon,,2700,0.0,4.3,,
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-02-05,Amazon,2700.0,2830,28.1,4.3,130.0,4.81
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-03-04,Amazon,2830.0,2840,13.1,4.3,10.0,0.35
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-05-14,Amazon,2840.0,2710,16.6,4.3,-130.0,-4.58
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-06-18,Amazon,2710.0,2610,14.2,4.3,-100.0,-3.69
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-01-10,Croma,,2770,21.8,4.3,,
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-02-23,Croma,2770.0,2750,20.3,4.3,-20.0,-0.72
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-06-19,Croma,2750.0,2680,19.0,4.3,-70.0,-2.55
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-01-03,Flipkart,,2590,17.0,4.3,,
+P080,Makeup Kit Pro,Beauty & Personal Care,2026-06-03,Flipkart,2590.0,2950,24.6,4.3,360.0,13.9
+P081,Yoga Mat,Sports & Fitness,2026-01-03,Amazon,,510,15.0,4.3,,
+P081,Yoga Mat,Sports & Fitness,2026-04-10,Amazon,510.0,500,21.9,4.3,-10.0,-1.96
+P081,Yoga Mat,Sports & Fitness,2026-06-12,Amazon,500.0,510,16.6,4.3,10.0,2.0
+P081,Yoga Mat,Sports & Fitness,2026-01-20,Croma,,530,32.1,4.3,,
+P081,Yoga Mat,Sports & Fitness,2026-03-09,Croma,530.0,540,7.5,4.3,10.0,1.89
+P081,Yoga Mat,Sports & Fitness,2026-06-08,Croma,540.0,530,38.4,4.3,-10.0,-1.85
+P081,Yoga Mat,Sports & Fitness,2026-01-16,Flipkart,,490,9.1,4.3,,
+P081,Yoga Mat,Sports & Fitness,2026-06-25,Flipkart,490.0,530,0.7,4.3,40.0,8.16
+P082,Yoga Mat Pro,Sports & Fitness,2026-01-10,Amazon,,1190,26.4,3.3,,
+P082,Yoga Mat Pro,Sports & Fitness,2026-04-08,Amazon,1190.0,1170,13.7,3.3,-20.0,-1.68
+P082,Yoga Mat Pro,Sports & Fitness,2026-06-17,Amazon,1170.0,1200,14.0,3.3,30.0,2.56
+P082,Yoga Mat Pro,Sports & Fitness,2026-01-24,Croma,,1210,7.4,3.3,,
+P082,Yoga Mat Pro,Sports & Fitness,2026-02-11,Croma,1210.0,1220,3.4,3.3,10.0,0.83
+P082,Yoga Mat Pro,Sports & Fitness,2026-05-23,Croma,1220.0,1260,20.1,3.3,40.0,3.28
+P082,Yoga Mat Pro,Sports & Fitness,2026-06-02,Croma,1260.0,1280,6.4,3.3,20.0,1.59
+P082,Yoga Mat Pro,Sports & Fitness,2026-01-08,Flipkart,,1160,9.3,3.3,,
+P082,Yoga Mat Pro,Sports & Fitness,2026-03-04,Flipkart,1160.0,1180,8.1,3.3,20.0,1.72
+P082,Yoga Mat Pro,Sports & Fitness,2026-06-15,Flipkart,1180.0,1280,23.1,3.3,100.0,8.47
+P083,Dumbbell Set,Sports & Fitness,2026-01-20,Amazon,,4020,9.6,3.3,,
+P083,Dumbbell Set,Sports & Fitness,2026-05-04,Amazon,4020.0,4140,3.0,3.3,120.0,2.99
+P083,Dumbbell Set,Sports & Fitness,2026-06-23,Amazon,4140.0,4230,8.7,3.3,90.0,2.17
+P083,Dumbbell Set,Sports & Fitness,2026-01-03,Croma,,4070,3.0,3.3,,
+P083,Dumbbell Set,Sports & Fitness,2026-06-13,Croma,4070.0,4500,1.5,3.3,430.0,10.57
+P083,Dumbbell Set,Sports & Fitness,2026-01-07,Flipkart,,3870,12.9,3.3,,
+P083,Dumbbell Set,Sports & Fitness,2026-04-01,Flipkart,3870.0,3680,16.3,3.3,-190.0,-4.91
+P083,Dumbbell Set,Sports & Fitness,2026-06-24,Flipkart,3680.0,3620,4.5,3.3,-60.0,-1.63
+P084,Dumbbell Set Pro,Sports & Fitness,2026-01-05,Amazon,,2520,12.6,4.0,,
+P084,Dumbbell Set Pro,Sports & Fitness,2026-06-19,Amazon,2520.0,2620,21.1,4.0,100.0,3.97
+P084,Dumbbell Set Pro,Sports & Fitness,2026-01-13,Croma,,2590,15.1,4.0,,
+P084,Dumbbell Set Pro,Sports & Fitness,2026-04-02,Croma,2590.0,2870,14.2,4.0,280.0,10.81
+P084,Dumbbell Set Pro,Sports & Fitness,2026-06-13,Croma,2870.0,2920,10.2,4.0,50.0,1.74
+P084,Dumbbell Set Pro,Sports & Fitness,2026-01-21,Flipkart,,2470,3.9,4.0,,
+P084,Dumbbell Set Pro,Sports & Fitness,2026-02-16,Flipkart,2470.0,2460,29.3,4.0,-10.0,-0.4
+P084,Dumbbell Set Pro,Sports & Fitness,2026-03-21,Flipkart,2460.0,2450,10.0,4.0,-10.0,-0.41
+P084,Dumbbell Set Pro,Sports & Fitness,2026-06-14,Flipkart,2450.0,2490,21.2,4.0,40.0,1.63
+P085,Cricket Bat,Sports & Fitness,2026-01-17,Amazon,,1720,25.0,3.4,,
+P085,Cricket Bat,Sports & Fitness,2026-04-19,Amazon,1720.0,1710,12.2,3.4,-10.0,-0.58
+P085,Cricket Bat,Sports & Fitness,2026-06-14,Amazon,1710.0,1700,8.1,3.4,-10.0,-0.58
+P085,Cricket Bat,Sports & Fitness,2026-01-18,Croma,,1720,17.0,3.4,,
+P085,Cricket Bat,Sports & Fitness,2026-06-02,Croma,1720.0,1780,23.0,3.4,60.0,3.49
+P085,Cricket Bat,Sports & Fitness,2026-01-12,Flipkart,,1660,12.5,3.4,,
+P085,Cricket Bat,Sports & Fitness,2026-04-18,Flipkart,1660.0,1550,32.0,3.4,-110.0,-6.63
+P085,Cricket Bat,Sports & Fitness,2026-06-12,Flipkart,1550.0,1750,27.8,3.4,200.0,12.9
+P086,Cricket Bat Pro,Sports & Fitness,2026-01-01,Amazon,,2450,8.5,3.4,,
+P086,Cricket Bat Pro,Sports & Fitness,2026-04-17,Amazon,2450.0,2370,22.8,3.4,-80.0,-3.27
+P086,Cricket Bat Pro,Sports & Fitness,2026-06-08,Amazon,2370.0,2430,17.2,3.4,60.0,2.53
+P086,Cricket Bat Pro,Sports & Fitness,2026-01-10,Croma,,2480,4.7,3.4,,
+P086,Cricket Bat Pro,Sports & Fitness,2026-03-01,Croma,2480.0,2220,9.8,3.4,-260.0,-10.48
+P086,Cricket Bat Pro,Sports & Fitness,2026-04-10,Croma,2220.0,2310,0.0,3.4,90.0,4.05
+P086,Cricket Bat Pro,Sports & Fitness,2026-06-01,Croma,2310.0,2470,0.0,3.4,160.0,6.93
+P086,Cricket Bat Pro,Sports & Fitness,2026-01-04,Flipkart,,2430,20.7,3.4,,
+P086,Cricket Bat Pro,Sports & Fitness,2026-02-23,Flipkart,2430.0,2380,10.7,3.4,-50.0,-2.06
+P086,Cricket Bat Pro,Sports & Fitness,2026-05-04,Flipkart,2380.0,2230,13.6,3.4,-150.0,-6.3
+P086,Cricket Bat Pro,Sports & Fitness,2026-06-24,Flipkart,2230.0,2190,0.8,3.4,-40.0,-1.79
+P087,Football,Sports & Fitness,2026-01-20,Amazon,,570,13.7,3.5,,
+P087,Football,Sports & Fitness,2026-02-23,Amazon,570.0,560,0.4,3.5,-10.0,-1.75
+P087,Football,Sports & Fitness,2026-04-03,Amazon,560.0,540,9.4,3.5,-20.0,-3.57
+P087,Football,Sports & Fitness,2026-06-17,Amazon,540.0,560,10.7,3.5,20.0,3.7
+P087,Football,Sports & Fitness,2026-01-18,Croma,,580,0.0,3.5,,
+P087,Football,Sports & Fitness,2026-03-21,Croma,580.0,540,15.6,3.5,-40.0,-6.9
+P087,Football,Sports & Fitness,2026-06-25,Croma,540.0,570,18.7,3.5,30.0,5.56
+P087,Football,Sports & Fitness,2026-01-24,Flipkart,,560,11.1,3.5,,
+P087,Football,Sports & Fitness,2026-02-15,Flipkart,560.0,580,13.7,3.5,20.0,3.57
+P087,Football,Sports & Fitness,2026-05-18,Flipkart,580.0,540,22.0,3.5,-40.0,-6.9
+P087,Football,Sports & Fitness,2026-06-10,Flipkart,540.0,550,12.1,3.5,10.0,1.85
+P088,Football Pro,Sports & Fitness,2026-01-02,Amazon,,1190,11.0,4.8,,
+P088,Football Pro,Sports & Fitness,2026-03-16,Amazon,1190.0,1180,0.0,4.8,-10.0,-0.84
+P088,Football Pro,Sports & Fitness,2026-06-13,Amazon,1180.0,1200,8.9,4.8,20.0,1.69
+P088,Football Pro,Sports & Fitness,2026-01-15,Croma,,1210,0.0,4.8,,
+P088,Football Pro,Sports & Fitness,2026-02-15,Croma,1210.0,1190,15.0,4.8,-20.0,-1.65
+P088,Football Pro,Sports & Fitness,2026-03-10,Croma,1190.0,1130,15.4,4.8,-60.0,-5.04
+P088,Football Pro,Sports & Fitness,2026-06-10,Croma,1130.0,1110,7.8,4.8,-20.0,-1.77
+P088,Football Pro,Sports & Fitness,2026-01-21,Flipkart,,1170,19.5,4.8,,
+P088,Football Pro,Sports & Fitness,2026-03-17,Flipkart,1170.0,1140,7.6,4.8,-30.0,-2.56
+P088,Football Pro,Sports & Fitness,2026-06-10,Flipkart,1140.0,1140,11.6,4.8,0.0,0.0
+P089,Cycling Helmet,Sports & Fitness,2026-01-20,Amazon,,3440,1.6,3.8,,
+P089,Cycling Helmet,Sports & Fitness,2026-02-10,Amazon,3440.0,3490,4.2,3.8,50.0,1.45
+P089,Cycling Helmet,Sports & Fitness,2026-05-07,Amazon,3490.0,3440,8.8,3.8,-50.0,-1.43
+P089,Cycling Helmet,Sports & Fitness,2026-06-20,Amazon,3440.0,3640,7.3,3.8,200.0,5.81
+P089,Cycling Helmet,Sports & Fitness,2026-01-23,Croma,,3570,11.8,3.8,,
+P089,Cycling Helmet,Sports & Fitness,2026-02-07,Croma,3570.0,3670,19.5,3.8,100.0,2.8
+P089,Cycling Helmet,Sports & Fitness,2026-04-25,Croma,3670.0,3880,17.3,3.8,210.0,5.72
+P089,Cycling Helmet,Sports & Fitness,2026-06-07,Croma,3880.0,3890,20.9,3.8,10.0,0.26
+P089,Cycling Helmet,Sports & Fitness,2026-01-01,Flipkart,,3390,15.1,3.8,,
+P089,Cycling Helmet,Sports & Fitness,2026-02-14,Flipkart,3390.0,3390,15.3,3.8,0.0,0.0
+P089,Cycling Helmet,Sports & Fitness,2026-04-15,Flipkart,3390.0,3600,5.5,3.8,210.0,6.19
+P089,Cycling Helmet,Sports & Fitness,2026-05-21,Flipkart,3600.0,3650,9.2,3.8,50.0,1.39
+P089,Cycling Helmet,Sports & Fitness,2026-06-05,Flipkart,3650.0,3650,0.3,3.8,0.0,0.0
+P090,Cycling Helmet Pro,Sports & Fitness,2026-01-03,Amazon,,2360,8.8,4.2,,
+P090,Cycling Helmet Pro,Sports & Fitness,2026-04-23,Amazon,2360.0,2190,14.0,4.2,-170.0,-7.2
+P090,Cycling Helmet Pro,Sports & Fitness,2026-05-22,Amazon,2190.0,2180,0.1,4.2,-10.0,-0.46
+P090,Cycling Helmet Pro,Sports & Fitness,2026-06-10,Amazon,2180.0,2180,11.9,4.2,0.0,0.0
+P090,Cycling Helmet Pro,Sports & Fitness,2026-01-24,Croma,,2360,11.7,4.2,,
+P090,Cycling Helmet Pro,Sports & Fitness,2026-03-08,Croma,2360.0,2360,26.4,4.2,0.0,0.0
+P090,Cycling Helmet Pro,Sports & Fitness,2026-05-16,Croma,2360.0,2400,8.7,4.2,40.0,1.69
+P090,Cycling Helmet Pro,Sports & Fitness,2026-06-06,Croma,2400.0,2390,13.9,4.2,-10.0,-0.42
+P090,Cycling Helmet Pro,Sports & Fitness,2026-01-18,Flipkart,,2260,18.7,4.2,,
+P090,Cycling Helmet Pro,Sports & Fitness,2026-02-14,Flipkart,2260.0,2200,23.0,4.2,-60.0,-2.65
+P090,Cycling Helmet Pro,Sports & Fitness,2026-06-20,Flipkart,2200.0,2130,18.0,4.2,-70.0,-3.18
+P091,Resistance Bands,Sports & Fitness,2026-01-17,Amazon,,500,8.7,4.8,,
+P091,Resistance Bands,Sports & Fitness,2026-06-03,Amazon,500.0,480,12.3,4.8,-20.0,-4.0
+P091,Resistance Bands,Sports & Fitness,2026-01-02,Croma,,500,8.2,4.8,,
+P091,Resistance Bands,Sports & Fitness,2026-03-03,Croma,500.0,500,17.9,4.8,0.0,0.0
+P091,Resistance Bands,Sports & Fitness,2026-06-09,Croma,500.0,480,18.5,4.8,-20.0,-4.0
+P091,Resistance Bands,Sports & Fitness,2026-01-19,Flipkart,,480,7.2,4.8,,
+P091,Resistance Bands,Sports & Fitness,2026-02-16,Flipkart,480.0,480,12.2,4.8,0.0,0.0
+P091,Resistance Bands,Sports & Fitness,2026-05-23,Flipkart,480.0,490,37.8,4.8,10.0,2.08
+P091,Resistance Bands,Sports & Fitness,2026-06-13,Flipkart,490.0,490,1.7,4.8,0.0,0.0
+P092,Resistance Bands Pro,Sports & Fitness,2026-01-24,Amazon,,220,7.5,4.0,,
+P092,Resistance Bands Pro,Sports & Fitness,2026-04-18,Amazon,220.0,210,23.8,4.0,-10.0,-4.55
+P092,Resistance Bands Pro,Sports & Fitness,2026-06-16,Amazon,210.0,230,6.4,4.0,20.0,9.52
+P092,Resistance Bands Pro,Sports & Fitness,2026-01-04,Croma,,230,17.0,4.0,,
+P092,Resistance Bands Pro,Sports & Fitness,2026-02-06,Croma,230.0,220,1.6,4.0,-10.0,-4.35
+P092,Resistance Bands Pro,Sports & Fitness,2026-03-03,Croma,220.0,230,6.5,4.0,10.0,4.55
+P092,Resistance Bands Pro,Sports & Fitness,2026-06-16,Croma,230.0,210,13.5,4.0,-20.0,-8.7
+P092,Resistance Bands Pro,Sports & Fitness,2026-01-14,Flipkart,,220,17.2,4.0,,
+P092,Resistance Bands Pro,Sports & Fitness,2026-03-02,Flipkart,220.0,220,3.3,4.0,0.0,0.0
+P092,Resistance Bands Pro,Sports & Fitness,2026-06-15,Flipkart,220.0,220,11.0,4.0,0.0,0.0
+P093,Treadmill,Sports & Fitness,2026-01-11,Amazon,,47100,16.4,3.3,,
+P093,Treadmill,Sports & Fitness,2026-02-07,Amazon,47100.0,46980,0.4,3.3,-120.0,-0.25
+P093,Treadmill,Sports & Fitness,2026-06-18,Amazon,46980.0,45650,11.5,3.3,-1330.0,-2.83
+P093,Treadmill,Sports & Fitness,2026-01-22,Croma,,48990,18.9,3.3,,
+P093,Treadmill,Sports & Fitness,2026-05-25,Croma,48990.0,44520,15.1,3.3,-4470.0,-9.12
+P093,Treadmill,Sports & Fitness,2026-06-14,Croma,44520.0,41870,12.9,3.3,-2650.0,-5.95
+P093,Treadmill,Sports & Fitness,2026-01-20,Flipkart,,46290,10.2,3.3,,
+P093,Treadmill,Sports & Fitness,2026-03-10,Flipkart,46290.0,44930,9.3,3.3,-1360.0,-2.94
+P093,Treadmill,Sports & Fitness,2026-06-12,Flipkart,44930.0,40790,9.2,3.3,-4140.0,-9.21
+P094,Treadmill Pro,Sports & Fitness,2026-01-13,Amazon,,65580,24.7,4.0,,
+P094,Treadmill Pro,Sports & Fitness,2026-03-20,Amazon,65580.0,61610,3.5,4.0,-3970.0,-6.05
+P094,Treadmill Pro,Sports & Fitness,2026-04-15,Amazon,61610.0,63000,17.4,4.0,1390.0,2.26
+P094,Treadmill Pro,Sports & Fitness,2026-06-16,Amazon,63000.0,63960,10.5,4.0,960.0,1.52
+P094,Treadmill Pro,Sports & Fitness,2026-01-03,Croma,,67850,20.2,4.0,,
+P094,Treadmill Pro,Sports & Fitness,2026-03-20,Croma,67850.0,70360,3.7,4.0,2510.0,3.7
+P094,Treadmill Pro,Sports & Fitness,2026-06-24,Croma,70360.0,65850,3.8,4.0,-4510.0,-6.41
+P094,Treadmill Pro,Sports & Fitness,2026-01-22,Flipkart,,66070,6.0,4.0,,
+P094,Treadmill Pro,Sports & Fitness,2026-06-24,Flipkart,66070.0,75830,20.0,4.0,9760.0,14.77
+P095,Gym Gloves,Sports & Fitness,2026-01-01,Amazon,,880,16.1,4.8,,
+P095,Gym Gloves,Sports & Fitness,2026-02-11,Amazon,880.0,880,5.5,4.8,0.0,0.0
+P095,Gym Gloves,Sports & Fitness,2026-03-10,Amazon,880.0,910,7.4,4.8,30.0,3.41
+P095,Gym Gloves,Sports & Fitness,2026-06-12,Amazon,910.0,940,18.8,4.8,30.0,3.3
+P095,Gym Gloves,Sports & Fitness,2026-01-07,Croma,,900,0.0,4.8,,
+P095,Gym Gloves,Sports & Fitness,2026-05-05,Croma,900.0,790,8.2,4.8,-110.0,-12.22
+P095,Gym Gloves,Sports & Fitness,2026-06-16,Croma,790.0,790,6.6,4.8,0.0,0.0
+P095,Gym Gloves,Sports & Fitness,2026-01-15,Flipkart,,860,18.4,4.8,,
+P095,Gym Gloves,Sports & Fitness,2026-06-03,Flipkart,860.0,810,28.3,4.8,-50.0,-5.81
+P096,Gym Gloves Pro,Sports & Fitness,2026-01-24,Amazon,,710,0.0,4.2,,
+P096,Gym Gloves Pro,Sports & Fitness,2026-03-24,Amazon,710.0,700,19.2,4.2,-10.0,-1.41
+P096,Gym Gloves Pro,Sports & Fitness,2026-06-20,Amazon,700.0,660,20.7,4.2,-40.0,-5.71
+P096,Gym Gloves Pro,Sports & Fitness,2026-01-07,Croma,,740,17.0,4.2,,
+P096,Gym Gloves Pro,Sports & Fitness,2026-04-05,Croma,740.0,730,24.7,4.2,-10.0,-1.35
+P096,Gym Gloves Pro,Sports & Fitness,2026-06-06,Croma,730.0,710,12.6,4.2,-20.0,-2.74
+P096,Gym Gloves Pro,Sports & Fitness,2026-01-18,Flipkart,,700,0.6,4.2,,
+P096,Gym Gloves Pro,Sports & Fitness,2026-04-09,Flipkart,700.0,780,25.2,4.2,80.0,11.43
+P096,Gym Gloves Pro,Sports & Fitness,2026-06-24,Flipkart,780.0,750,14.5,4.2,-30.0,-3.85
+P097,Skipping Rope,Sports & Fitness,2026-01-19,Amazon,,430,13.2,3.7,,
+P097,Skipping Rope,Sports & Fitness,2026-02-14,Amazon,430.0,450,11.4,3.7,20.0,4.65
+P097,Skipping Rope,Sports & Fitness,2026-03-25,Amazon,450.0,480,11.3,3.7,30.0,6.67
+P097,Skipping Rope,Sports & Fitness,2026-04-19,Amazon,480.0,490,9.1,3.7,10.0,2.08
+P097,Skipping Rope,Sports & Fitness,2026-06-14,Amazon,490.0,470,6.8,3.7,-20.0,-4.08
+P097,Skipping Rope,Sports & Fitness,2026-01-03,Croma,,440,13.7,3.7,,
+P097,Skipping Rope,Sports & Fitness,2026-03-24,Croma,440.0,440,13.1,3.7,0.0,0.0
+P097,Skipping Rope,Sports & Fitness,2026-06-21,Croma,440.0,440,14.4,3.7,0.0,0.0
+P097,Skipping Rope,Sports & Fitness,2026-01-25,Flipkart,,410,5.6,3.7,,
+P097,Skipping Rope,Sports & Fitness,2026-03-23,Flipkart,410.0,390,0.0,3.7,-20.0,-4.88
+P097,Skipping Rope,Sports & Fitness,2026-05-08,Flipkart,390.0,400,15.2,3.7,10.0,2.56
+P097,Skipping Rope,Sports & Fitness,2026-06-17,Flipkart,400.0,380,13.2,3.7,-20.0,-5.0
+P098,Skipping Rope Pro,Sports & Fitness,2026-01-05,Amazon,,390,4.2,3.8,,
+P098,Skipping Rope Pro,Sports & Fitness,2026-04-25,Amazon,390.0,370,20.8,3.8,-20.0,-5.13
+P098,Skipping Rope Pro,Sports & Fitness,2026-06-09,Amazon,370.0,370,15.0,3.8,0.0,0.0
+P098,Skipping Rope Pro,Sports & Fitness,2026-01-22,Croma,,400,6.1,3.8,,
+P098,Skipping Rope Pro,Sports & Fitness,2026-03-19,Croma,400.0,440,4.1,3.8,40.0,10.0
+P098,Skipping Rope Pro,Sports & Fitness,2026-04-14,Croma,440.0,450,2.4,3.8,10.0,2.27
+P098,Skipping Rope Pro,Sports & Fitness,2026-05-12,Croma,450.0,430,10.4,3.8,-20.0,-4.44
+P098,Skipping Rope Pro,Sports & Fitness,2026-06-03,Croma,430.0,460,20.3,3.8,30.0,6.98
+P098,Skipping Rope Pro,Sports & Fitness,2026-01-05,Flipkart,,370,22.2,3.8,,
+P098,Skipping Rope Pro,Sports & Fitness,2026-02-02,Flipkart,370.0,370,14.6,3.8,0.0,0.0
+P098,Skipping Rope Pro,Sports & Fitness,2026-06-03,Flipkart,370.0,380,6.9,3.8,10.0,2.7
+P099,Fitness Tracker,Sports & Fitness,2026-01-09,Amazon,,4860,10.7,3.9,,
+P099,Fitness Tracker,Sports & Fitness,2026-04-24,Amazon,4860.0,5490,22.7,3.9,630.0,12.96
+P099,Fitness Tracker,Sports & Fitness,2026-06-06,Amazon,5490.0,5040,11.6,3.9,-450.0,-8.2
+P099,Fitness Tracker,Sports & Fitness,2026-01-15,Croma,,5110,24.1,3.9,,
+P099,Fitness Tracker,Sports & Fitness,2026-02-12,Croma,5110.0,5240,20.5,3.9,130.0,2.54
+P099,Fitness Tracker,Sports & Fitness,2026-03-05,Croma,5240.0,5210,15.8,3.9,-30.0,-0.57
+P099,Fitness Tracker,Sports & Fitness,2026-06-24,Croma,5210.0,5570,1.7,3.9,360.0,6.91
+P099,Fitness Tracker,Sports & Fitness,2026-01-19,Flipkart,,4750,18.0,3.9,,
+P099,Fitness Tracker,Sports & Fitness,2026-03-08,Flipkart,4750.0,4380,14.0,3.9,-370.0,-7.79
+P099,Fitness Tracker,Sports & Fitness,2026-04-01,Flipkart,4380.0,4320,7.7,3.9,-60.0,-1.37
+P099,Fitness Tracker,Sports & Fitness,2026-06-14,Flipkart,4320.0,4550,5.6,3.9,230.0,5.32
+P100,Fitness Tracker Pro,Sports & Fitness,2026-01-01,Amazon,,4740,10.4,3.2,,
+P100,Fitness Tracker Pro,Sports & Fitness,2026-06-05,Amazon,4740.0,4260,7.4,3.2,-480.0,-10.13
+P100,Fitness Tracker Pro,Sports & Fitness,2026-01-11,Croma,,4880,16.5,3.2,,
+P100,Fitness Tracker Pro,Sports & Fitness,2026-03-11,Croma,4880.0,4890,20.8,3.2,10.0,0.2
+P100,Fitness Tracker Pro,Sports & Fitness,2026-04-02,Croma,4890.0,5120,7.0,3.2,230.0,4.7
+P100,Fitness Tracker Pro,Sports & Fitness,2026-06-19,Croma,5120.0,5270,1.7,3.2,150.0,2.93
+P100,Fitness Tracker Pro,Sports & Fitness,2026-01-19,Flipkart,,4640,6.5,3.2,,
+P100,Fitness Tracker Pro,Sports & Fitness,2026-06-11,Flipkart,4640.0,4560,10.4,3.2,-80.0,-1.72
